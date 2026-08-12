@@ -1,0 +1,688 @@
+Entity Name,Entity ID,Fiscal Year,Valuation Date,Name of Actuary,Actuarial Accrued Liability (AAL),Actuarial Value of Assets (AVA),Unfunded Actuarial Accrued Liability (UAAL) (AVA Basis),"Funded Ratio (AVA Basis) (rounded to nearest hundredth, EXAMPLE: 99.99)",Annual Covered Payroll (ACP),UAAL as a Percentage of ACP (AVA Basis),Method Used to Determine AAL,"Please Specifiy ""Other"" Method",Market Value of Assets (MVA),UAAL (MVA Basis),Funding Ratio (MVA Basis)
+AC Transit Employees' Retirement Plan,7159,2024,01/01/2023,Cherion,1160658693,884596000,276062693,76.21,197853537,139.53,Entry Age,NULL,776480666,384178027,66.9
+Alameda County Employees' Retirement Association,7258,2024,12/31/2023,Segal,11746667000,10342556000,1404111000,88.05,1319397000,106.42,Entry Age,NULL,10109342000,1637325000,86.06
+Antelope Valley Hospital Medical Center Retirement Plan,7148,2024,07/01/2023,Milliman,486718452,338707247,148011205,69.59,159917337,92.55,Entry Age,NULL,332822965,153895487,68.38
+California State Teachers' Retirement System,7209,2024,06/30/2023,Milliman Inc.,359741000000,273155000000,86586000000,75.93,39370000000,219.93,Entry Age,NULL,274170000000,85571000000,76.21
+City of Alameda Police and Fire Pension 1079 and 1082,7218,2024,06/30/2024,Precision Actuarial Inc. & GovInvest,2509692,0,2509692,,0,,Other,Mortality - the rates incorporate Generational Mortality to capture ongoing mortality improvement using 80 percent of Scale MP 2020.,0,2509692,
+City of Albany Police and Fire Relief Pension Fund,7219,2024,06/30/2022,GovInvest,9768554,2599073,7169481,26.61,0,,Entry Age,NULL,7169481,2599073,73.39
+City of Berkeley Safety Members' Pension Fund,7220,2024,06/30/2024,Foster and Foster Actuaries and Consultants,146122,0,146122,,0,,Other,Average remaining lifetime of participants,0,,
+City of Concord Retirement System,7230,2024,06/30/2023,Foster & Foster,53104,29171,23933,54.93,0,,Entry Age,NULL,29171,23933,54.93
+City of Delano Employee Pension Plan,7235,2024,07/01/2024,Nyhart,70759779,51180266,19579513,72.33,10571394,185.21,Entry Age,NULL,49662962,21096817,70.19
+City of El Cerrito Employees' Pension Trust Fund,7225,2024,09/23/2021,NULL,,,,,0,,Projected Unit Credit,NULL,,,
+City of Eureka Fire and Police Retirement System,7233,2024,06/30/2024,GovInvest,1734906,,,,0,,Other,Straight Line,,,
+City of Fresno Employees' Retirement System,7232,2024,06/30/2024,The Segal Company,1457747000,1600472705,-142725705,109.79,238367154,-59.88,Entry Age,NULL,1644254000,-186507000,112.79
+City of Fresno Fire and Police Retirement System,7231,2024,06/30/2024,The Segal Company,1732763000,1991116988,-258353988,114.91,157870000,-163.65,Entry Age,NULL,2044347000,-311584000,117.98
+City of Irvine Safety Defined Benefit Pension Plan,7243,2024,01/01/2024,USI Consulting Group,23333004,20347027,2985977,87.2,318509,937.49,Entry Age,NULL,17736936,5596068,76.02
+City of Los Angeles Fire and Police Pension System,7236,2024,06/30/2024,Segal Consulting,27595631079,27527602006,68029073,99.75,1771168166,3.84,Entry Age,NULL,28148045889,-552414810,102
+City of Los Angeles Water and Power Employees' Retirement Plan,7238,2024,07/01/2024,The Segal Company,18026936825,17600753628,426183197,97.64,1403031222,30.38,Entry Age,N/A,17812697101,214239724,98.81
+City of Manhattan Beach Single Highest Year Retirement Plan,7240,2024,06/30/2024,Total Compensation Systems,97984,38956,59028,39.76,0,,Entry Age,NULL,38956,59028,39.76
+City of Manhattan Beach Supplemental Retirement Plan,7241,2024,06/30/2024,Total Compensation Systems,47832,18332,29500,38.33,0,,Entry Age,NULL,,,
+City of Oakland Fire and Police Retirement System,7222,2024,07/01/2023,Cheiron,522457000,425449000,97008000,81.43,0,,Entry Age,NULL,0,522457,
+City of Pasadena Fire and Police Retirement System,7239,2024,06/30/2024,Foster & Foster,119513000,99755000,19758000,83.47,0,161.29,Entry Age,NULL,98630000,20883000,82.53
+City of Piedmont Police and Fire Pension Plan,7224,2024,06/30/2024,Foster & Foster,788889,18585491,-17796602,2355.91,0,,Aggregate,NULL,18585491,-17796602,2355.91
+City of Richmond General Pension Plan,7227,2024,06/30/2023,VIA Actuarial Solutions,358539,0,358539,,0,,Entry Age,NULL,0,,
+City of Richmond Police and Firemen's Pension Plan,7228,2024,06/30/2023,VIA Actuarial Solutions,5494894,0,5494894,,0,,Entry Age,NULL,,,
+City of Sacramento City Employees' Retirement System,7245,2024,06/30/2024,Foster & Foster Actuaries and Consultants,249409000,243646000,5763000,97.69,87000,6624.14,Entry Age,NULL,253497000,-4088000,101.64
+City of San Clemente Restated Employees' Retirement Plan,7244,2024,06/30/2023,Foster & Foester Actuaries & Consultants,44897000,26021000,18876000,57.96,404023,4672.01,Entry Age,NULL,26021000,18876000,57.96
+City of San Jose Federated City Employees' Retirement System,7249,2024,06/30/2023,Cheiron,4965668000,2889956000,2075712000,58.2,434174000,478.08,Entry Age,NULL,2907314000,2058354000,58.55
+City of San Jose Police and Fire Retirement Plan,7250,2024,06/30/2023,Cheiron,5908554000,4739742000,1168812000,80.22,265551000,440.15,Entry Age,NULL,4721488000,1187066000,79.91
+City of Santa Barbara Police and Fire Pension Fund,7248,2024,06/30/2023,Foster & Foster,93232,,,,0,,Other,Actuarial cost methods are only applicable when you have active employees.,,,
+Contra Costa County Employees' Retirement Association,7259,2024,12/31/2022,Segal Consulting,11912228880,10861822062,1050406818,91.18,1073886785,97.81,Entry Age,NULL,10053668812,1858560068,84.4
+Contra Costa Water District Retirement Plan,7172,2024,06/30/2023,VIA Actuarial,333571766,259265405,74306361,77.72,40147688,185.08,Entry Age,NULL,251238748,82333018,75.32
+Desert Hospital Retirement Protection Plan,7398,2024,06/30/2024,Nyhart,2715761,4444098,-1728337,163.64,0,,Entry Age,NULL,,,
+East Bay Municipal Utility District Employees' Retirement System,7168,2024,06/30/2023,Segal Consulting,2994429150,2251690803,742738347,75.2,266278000,278.93,Entry Age,NULL,2194142000,800287150,73.27
+Fresno County Employees' Retirement Association,7260,2024,06/30/2022,Segal Consulting,6918859000,6134136000,784723000,88.66,491461957,159.67,Entry Age,NULL,5623399000,1295460000,81.28
+Golden Gate Transit District Amalgamated Retirement Plan,7144,2024,01/01/2023,Cheiron,198631893,95384216,103247677,48.02,13153000,,Entry Age,NULL,87079579,111552314,43.84
+Greater Palm Springs Convention and Visitor's Bureau Defined Benefit Pension Plan,13131,2024,06/30/2024,Foster & Foster,11755779,10113033,1642746,86.03,3242646,50.66,Entry Age,NULL,10136828,1618951,86.23
+Imperial County Employees' Retirement System,7261,2024,06/30/2024,The Segal Group,1309119,1208083,101036,92.28,149618000,67.53,Entry Age,NULL,1197046,112073,91.44
+Judges' Retirement System I,7205,2024,06/30/2023,CalPERS Actuarial & Employer Services Division,2667952335,50015399,2617936936,1.87,19330022,13543.37,Other,Entry Age Normal Cost,500185399,2167766936,18.75
+Judges' Retirement System II,7206,2024,06/30/2023,CalPERS Actuarial & Employer Services Division,2361939313,2333468381,28470932,98.79,388369534,7.33,Other,Entry Age Normal Cost,2333468381,28470932,98.79
+Kaweah Delta Hospital District Employees' Retirement Plan,7149,2024,06/30/2023,Willis Towers Watson,307477333,286250863,21226470,93.1,0,,Entry Age,NULL,286250865,21226468,93.1
+Kern County Employees' Retirement Association,7262,2024,06/30/2024,Segal Consulting,8332592000,5822219000,2510373000,69.87,797698000,314.7,Entry Age,NULL,5732232000,2600360000,68.79
+Legislators' Retirement System,7207,2024,06/30/2023,CalPERS Actuarial & Employer Services Division,97069061,96998773,70288,99.93,0,,Other,Entry Age Normal Cost,96998773,70288,99.93
+Long Beach Public Transportation Company Retirement Plan - Contract Employees,7198,2024,07/01/2024,NWPS,113777894,87997830,25780064,77.34,35879000,71.85,Frozen Entry Age,NULL,87997830,25780064,77.34
+Long Beach Public Transportation Company Retirement Plan - Salaried Employees,7199,2024,07/01/2024,NWPS,37356318,34157737,3198581,91.44,4086524,78.27,Frozen Entry Age,NULL,34157737,3198581,91.44
+Los Angeles City Employees' Retirement System,7237,2024,06/30/2024,Segal,26492518234,19445576600,7046941634,73.4,2730282217,258.1,Entry Age,NULL,19144037018,7348481216,72.26
+Los Angeles County Employees' Retirement Association,7263,2024,06/30/2023,Milliman,90651092000,72414936000,18236156000,79.88,9425689968,193.47,Entry Age,NULL,76138833103,14512258897,83.99
+Los Angeles County Transportation Authority AFSCME Employees' Retirement Income Plan,9235,2024,12/31/2023,Willis Towers Watson,55300575,46601374,8699201,84.27,733472,1186.03,Projected Unit Credit,NULL,43108876,12191699,77.95
+Los Angeles County Transportation Authority Maintenance Employees' Retirement System,7161,2024,01/01/2024,Rael & Letson,899946090,721796382,178149708,80.2,217061000,82.07,Entry Age,NULL,684360134,215585956,76.04
+Los Angeles County Transportation Authority Non-Contract Employees' Retirement System,7162,2024,12/31/2023,Willis Tower Watson,139001763,117813575,21188188,84.76,1679083,1261.89,Projected Unit Credit,NULL,109999284,29002479,79.14
+Los Angeles County Transportation Authority SMART - TD Retirement,7163,2024,12/31/2023,Willis Tower Watson,923213056,821821484,101391572,89.02,285415311,35.52,Projected Unit Credit,NULL,779079798,144133258,84.39
+Los Angeles County Transportation Authority Transportation Communication - Union Employees' Retirement System,7160,2024,12/31/2023,Willis Towers Watson,219073741,196419840,22653901,89.66,64962783,34.87,Projected Unit Credit,NULL,187174827,31898914,85.44
+Marin County Employees' Retirement Association,7264,2024,06/30/2023,Cheiron,3473000000,3144700000,328300000,90.55,0,,Entry Age,NULL,3144663241,328336759,90.55
+Marin County Transit District Service Credit Replacement Plan,13268,2024,06/30/2024,Island Actuarial Services,459428,370717,88711,80.69,0,,Entry Age,NULL,370717,88711,80.69
+Mendocino County Employees' Retirement Association,7265,2024,06/30/2024,The Segal Company,963282735,714967069,248315666,74.22,88662528,,Entry Age,NULL,715112157,248170578,74.24
+Merced County Employees' Retirement Association,7266,2024,06/30/2022,Cheiron,1610209714,1253752672,356457042,77.86,144006298,247.53,Other,Entry Age Normal,1253752672,356457042,77.86
+Modesto Irrigation District Basic Retirement Plan,7186,2024,01/01/2024,Cheiron Inc.,532050432,451510258,80540174,84.86,50760174,158.67,Entry Age,NULL,500321114,31729318,94.04
+Orange County Employees' Retirement System,7267,2024,12/31/2022,Segal Consulting,25386669000,20691659000,4695010000,81.51,2124678000,220.98,Entry Age,NULL,19534631000,5852038000,76.95
+Public Agency Retirement System Defined Benefit Plans,7215,2024,06/30/2022,Milliman USA,11578287,7359785,4218502,63.57,164821953,2.56,Other,Discount Rate,,,
+Public Employees' Retirement Fund (PERF) A,12892,2024,06/30/2023,CalPERS Actuarial &  Employer Services Division,650821000000,464491000000,186330000000,71.37,67833000000,274.69,Entry Age,NULL,464491000000,186330000000,71.37
+Public Employees' Retirement Fund (PERF) B,12893,2024,06/30/2023,CalPERS Actuarial &  Employer Services Division,,,,,0,,Other,Individual Entry Age Normal,,,
+Public Employees' Retirement Fund (PERF) C,12894,2024,06/30/2023,CalPERS Actuarial &  Employer Services Division,,,,,0,,Other,Individual Entry Age Normal,,,
+Sacramento County Employees' Retirement System,7268,2024,06/30/2024,Segal,15002017000,13209968000,1792049000,88.05,1330913097,134.65,Entry Age,NULL,13309632000,1692385000,88.72
+Sacramento Regional Transit District ATU Employees' Retirement Plan,12847,2024,07/01/2023,Cheiron Inc,223482409,169985686,53496723,76.06,43423598,123.2,Entry Age,NULL,166073676,57408733,74.31
+Sacramento Regional Transit District IBEW Employees' Retirement Plan,12848,2024,07/01/2023,Cheiron Inc,101701322,76012624,25688698,74.74,16996391,151.14,Entry Age,NULL,74460071,27241251,73.21
+Sacramento Regional Transit District Salaried Employees' Retirement Plan,7165,2024,07/01/2023,Cheiron Inc,192344323,133093721,59250602,69.2,33041904,179.32,Entry Age,NULL,130990428,61353895,68.1
+Salinas Valley Memorial Healthcare District Employees Pension Plan,13351,2024,12/31/2023,Willis Towers Watson,430143285,486845245,-56701960,113.18,151837187,,Other,Entry Age Normal for PEPRA participants.  Traditional Unit Credit for Others.,459538695,-29395410,106.83
+San Bernardino County Employees' Retirement Association,7269,2024,06/30/2024,Segal Consulting Co,17372252000,15159420000,2212832000,87.26,1985692000,,Entry Age,NULL,15248225000,2124027000,87.77
+San Diego City Employees' Retirement System,7246,2024,06/30/2023,Cheiron,14097817406,10561793548,3536023858,74.92,1025740440,344.73,Entry Age,NULL,10598771204,3499046202,75.18
+San Diego County Employees' Retirement Association,7270,2024,06/30/2024,Segal,22669740000,17567951000,5101789000,77.5,1861323904,274.09,Entry Age,NULL,17619364000,5050376000,77.72
+San Diego Transit Corporation Employees' Retirement Plan,7200,2024,06/30/2024,Cheiron,347621403,198907997,148713406,57.22,23688509,627.79,Entry Age,NULL,192944763,154676640,55.5
+San Francisco City and County Employees' Retirement System,7247,2024,07/01/2023,Cheiron,35351967000,34137005000,1214962000,96.56,4398687239,,Entry Age,NULL,33688428000,1663539000,95.29
+San Joaquin County Employees' Retirement Association,7271,2024,01/01/2023,Cheiron,5674662702,4084688496,1589974206,71.98,539642958,294.63,Entry Age,NULL,3817752762,1856909940,67.28
+San Joaquin Regional Transit District Contract Employees' Retirement Plan,7166,2024,07/01/2023,Foster & Foster Actuaries and Consultants,80315000,52598000,27717000,65.49,9581000,289.29,Entry Age,NULL,50209000,30106000,62.52
+San Luis Obispo County Pension Trust,7272,2024,01/01/2023,Cheiron,2622192000,1679561000,942631000,64.05,245307336,384.27,Entry Age,NULL,1594492000,1027700000,60.81
+San Mateo County Employees' Retirement Association,7273,2024,06/30/2024,Milliman,7418282000,6498988000,919294000,87.61,676865990,,Entry Age,NULL,6481692000,936590000,87.37
+Santa Barbara County Employees' Retirement System,7274,2024,06/30/2024,Cheiron,4922924000,4132090000,790834000,83.94,440152000,179.67,Entry Age,NULL,4132090000,790834000,83.94
+Santa Clara Valley Transportation Authority Amalgamated Transit Union Pension Plan,7167,2024,01/01/2024,Cheiron Inc.,907138209,707433662,199704547,77.99,160018530,124.8,Entry Age,NULL,674371413,232766796,74.34
+Self-Insured Schools of California Defined Benefit Plan,7183,2024,12/31/2023,Total Compensation Systems,68398755,61723108,6675647,90.24,112238366,5.95,Projected Unit Credit,NULL,65952520,2446235,96.42
+Sonoma County Employees' Retirement Association,7275,2024,12/31/2023,The Segal Group,3730227000,3500687000,229540000,93.85,457288313,50.2,Entry Age,NULL,3481146000,249081000,93.32
+Stanislaus County Employees' Retirement Association,7276,2024,06/30/2022,Cheiron,3379554000,2603763000,775791000,77.04,357174000,217.2,Entry Age,NULL,2526425344,853128656,74.76
+Sunline Transit Retirement Income Plan - Bargaining Unit Personnel,7182,2024,01/01/2023,Nyhart,35282743,38864230,-3581487,110.15,9378110,-38.19,Entry Age,NULL,34753786,528957,98.5
+Sunline Transit Retirement Income Plan - Non-Bargaining Unit Personnel,7400,2024,01/01/2023,Nyhart,36221609,38948434,-2726825,107.53,5734757,-47.55,Entry Age,NULL,34860206,1361403,96.24
+Tulare County Employees' Retirement Association,7277,2024,06/30/2022,CHEIRON,2047350000,1840109000,207241000,89.88,293444953,70.62,Entry Age,NULL,1705307000,342043000,83.29
+Turlock Irrigation District Pension Plan,7187,2024,01/01/2024,Nyhart,455215429,422562787,32652642,92.83,49868702,65.48,Entry Age,NULL,408089177,47126252,89.65
+University of California Retirement Plan,7211,2024,07/01/2024,Segal Consulting,116497210000,96053525000,20443685000,82.45,16694399736,109.6,Entry Age,NULL,98689566000,17807644000,84.71
+Ventura County Employees' Retirement Association,7278,2024,06/30/2024,Segal Company,8403987000,8148479000,255508000,96.96,954250417,26.78,Entry Age,None.,8292116726,111870274,98.67
+West Contra Costa Healthcare District Successor Retirement Plan,8275,2024,07/01/2024,USI Consulting Group,12465306,9080698,3384608,72.85,0,,Entry Age,NULL,9190931,3274375,73.73
+AC Transit Employees' Retirement Plan,7159,2023,01/01/2022,Cheiron,1084688403,788654000,296034403,72.71,177734000,166.56,Entry Age,NULL,837867000,246821403,77.24
+Alameda County Employees' Retirement Association,7258,2023,12/31/2022,Segal,11415120000,9923019000,1492101000,86.93,1258026000,118.61,Entry Age,NULL,9206534000,2208586000,80.65
+Antelope Valley Hospital Medical Center Retirement Plan,7148,2023,07/01/2022,Milliman,462651485,310014672,152636813,67.01,154615246,98.72,Entry Age,NULL,289541716,173109769,62.58
+California State Teachers' Retirement System,7209,2023,06/30/2022,Milliman,346089000000,257537000000,88552000000,74.41,37482000000,237.66,Entry Age,NULL,260286000000,85803000000,75.21
+City of Alameda Police and Fire Pension 1079 and 1082,7218,2023,06/30/2023,Precision Actuarial Inc. & GovInvest,2870424,0,2870424,,0,,Other,Mortality - Mortality Improvement Scale MP 2014 with 15 years convergence to 2023,0,2870424,
+City of Albany Police and Fire Relief Pension Fund,7219,2023,10/25/2023,GovInvest,11043324,3065468,7977856,27.76,0,,Entry Age,NULL,7977856,3065468,72.24
+City of Berkeley Safety Members' Pension Fund,7220,2023,06/30/2023,Bartel Associates LLC,845616,0,845616,,0,,Other,Average remaining lifetime of participants,0,,
+City of Concord Retirement System,7230,2023,06/30/2023,Foster & Foster,53104,29171,23933,54.93,0,,Entry Age,NULL,29171,23933,54.93
+City of Delano Employee Pension Plan,7235,2023,07/01/2023,Nyhart,67865056,48137116,19727940,70.93,9924784,203.85,Entry Age,NULL,43761015,24104041,64.48
+City of El Cerrito Employees' Pension Trust Fund,7225,2023,09/23/2021,NULL,,,,,85000,,Projected Unit Credit,NULL,,,
+City of Emeryville Pension Plan,7221,2023,06/30/2019,Foster & Foster (Bartel Assoc. LLC),100090,0,100090,,0,,Projected Unit Credit,NULL,0,100090,
+City of Eureka Fire and Police Retirement System,7233,2023,06/30/2023,GovInvest,1504102,,,,0,,Other,Straight Line,,,
+City of Fresno Employees' Retirement System,7232,2023,06/30/2023,The Segal Company,1358214000,1509532380,-151318380,111.14,197806876,-76.5,Entry Age,NULL,1516547000,-158333000,111.66
+City of Fresno Fire and Police Retirement System,7231,2023,06/30/2023,The Segal Company,1607286000,1876149460,-268863460,116.73,141841000,-189.55,Entry Age,NULL,1884566000,-277280000,117.25
+City of Irvine Safety Defined Benefit Pension Plan,7243,2023,01/01/2022,USI Consulting Group,23929899,20617325,3312574,86.16,272177,,Entry Age,NULL,21662684,2267215,90.53
+City of Los Angeles Fire and Police Pension System,7236,2023,06/30/2023,Segal Consulting,26556701793,26430734890,125966903,99.53,1698778328,7.42,Entry Age,NULL,26437299567,119402226,99.55
+City of Los Angeles Water and Power Employees' Retirement Plan,7238,2023,07/01/2023,The Segal Company,17006868824,16595320789,411548035,97.58,1259245870,32.68,Entry Age,NULL,16424801111,582067713,96.58
+City of Manhattan Beach Single Highest Year Retirement Plan,7240,2023,06/30/2023,Total Compensation Systems,103289,39521,63768,38.26,0,,Entry Age,NULL,39521,63768,38.26
+City of Manhattan Beach Supplemental Retirement Plan,7241,2023,06/30/2023,Total Compensation Systems,48931,18598,30333,38.01,0,,Entry Age,NULL,,,
+City of Oakland Fire and Police Retirement System,7222,2023,07/01/2022,Cheiron,552966,422762,130204,76.45,0,,Entry Age,NULL,0,552966,
+City of Pasadena Fire and Police Retirement System,7239,2023,06/30/2023,Foster & Foster,127551000,107321000,20230000,84.14,11953784,169.24,Entry Age,NULL,104377000,23174000,81.83
+City of Piedmont Police and Fire Pension Plan,7224,2023,06/30/2022,Bartel Associates LLC,1324879,14766141,-13441262,1114.53,0,,Aggregate,NULL,14766141,-13441262,1114.53
+City of Richmond Garfield Pension Plan,7229,2023,06/30/2023,VIA Actuarial Solutions,0,0,,,0,,Entry Age,NULL,,,
+City of Richmond General Pension Plan,7227,2023,06/30/2023,VIA Actuarial Solutions,604836,1008691,-403855,166.77,0,,Entry Age,NULL,1008691,-403855,166.77
+City of Richmond Police and Firemen's Pension Plan,7228,2023,06/30/2023,VIA Actuarial Solutions,5697175,10037936,-4340761,176.19,0,,Entry Age,NULL,10037936,-4340761,176.19
+City of Sacramento City Employees' Retirement System,7245,2023,06/30/2023,Foster & Foster Actuaries and Consultants,261807000,250051000,11756000,95.51,103000,11413.59,Entry Age,NULL,249966000,11841000,95.48
+City of San Clemente Restated Employees' Retirement Plan,7244,2023,06/30/2021,Foster & Foster Actuaries and Consultants,42565000,24328000,18237000,57.15,443149,4115.32,Entry Age,NULL,24328000,18237000,57.15
+City of San Jose Federated City Employees' Retirement System,7249,2023,06/30/2022,Cheiron,4750646000,2709625000,2041021000,57.04,386315000,528.33,Entry Age,NULL,2708026000,2042620000,57
+City of San Jose Police and Fire Retirement Plan,7250,2023,06/30/2022,Cheiron,5650481000,4495687000,1154794000,79.56,254356000,454.01,Entry Age,NULL,4409869000,1240612000,78.04
+City of Santa Barbara Police and Fire Pension Fund,7248,2023,06/30/2022,Foster & Foster,99855,,,,0,,Other,Actuarial cost methods are only applicable when you have active employees.,,,
+Contra Costa County Employees' Retirement Association,7259,2023,12/31/2021,Segal Consulting,11288973487,10434412288,854561199,92.43,1015755387,84.13,Entry Age,NULL,11453765753,-164792266,101.46
+Contra Costa Water District Retirement Plan,7172,2023,06/30/2022,Van Iwaarden Associates,317588896,244502444,73086452,76.99,39341598,,Entry Age,NULL,224904411,92684485,70.82
+Desert Hospital Retirement Protection Plan,7398,2023,06/30/2023,Nyhart,3036119,4493259,-1457140,147.99,0,,Entry Age,NULL,,,
+East Bay Municipal Utility District Employees' Retirement System,7168,2023,06/30/2022,Segal Consulting,2835771092,2158462528,677308564,76.12,247569000,273.58,Entry Age,NULL,2005352000,830419092,70.72
+Fresno County Employees' Retirement Association,7260,2023,06/30/2021,Segal Consulting,6649631000,5710379000,939252000,85.88,482498920,194.66,Entry Age,NULL,6282922000,366709000,94.49
+Golden Gate Transit District Amalgamated Retirement Plan,7144,2023,01/01/2022,Cheiron,205290300,102502831,102787469,49.93,15085000,681.39,Entry Age,NULL,107880965,97409335,52.55
+Greater Palm Springs Convention and Visitor's Bureau Defined Benefit Pension Plan,13131,2023,06/30/2023,DFA Actuaries LLP,8820577,8672199,148378,98.32,2830804,5.24,Entry Age,NULL,8242156,578421,93.44
+Imperial County Employees' Retirement System,7261,2023,06/30/2023,The Segal Group,1262246000,1144538000,117708000,90.67,143616000,81.96,Entry Age,NULL,1104373000,157873000,87.49
+Judges' Retirement System I,7205,2023,06/30/2022,CalPERS Actuarial & Employer Services Division,2805415585,52709366,2752706219,1.88,23354332,11786.71,Other,Entry Age Normal Cost,52709366,2752706219,1.88
+Judges' Retirement System II,7206,2023,06/30/2022,CalPERS Actuarial & Employer Services Division,2157506377,2139223765,18282612,99.15,368023114,4.97,Entry Age,NULL,2139223765,18282612,99.15
+Kaweah Delta Hospital District Employees' Retirement Plan,7149,2023,06/30/2022,Willis Towers Watson,315315222,272353912,42961310,86.38,0,,Entry Age,NULL,272353912,42961310,86.38
+Kern County Employees' Retirement Association,7262,2023,06/30/2022,Segal Consulting,7918848000,5436078000,2482770000,68.65,677026000,366.72,Entry Age,NULL,5222466000,2696382000,65.95
+Legislators' Retirement System,7207,2023,06/30/2022,CalPERS Actuarial & Employer Services Division,94697328,103991312,-9293984,109.81,294545,-3155.37,Other,Entry Age Normal Cost,103991312,-9293984,109.81
+Long Beach Public Transportation Company Retirement Plan - Contract Employees,7198,2023,07/01/2023,NWPS,106957133,76721202,30235931,71.73,33739000,89.62,Frozen Entry Age,NULL,76721202,30235931,71.73
+Long Beach Public Transportation Company Retirement Plan - Salaried Employees,7199,2023,07/01/2023,NWPS,36168165,32349016,3819149,89.44,4133000,92.41,Frozen Entry Age,NULL,32349016,3819149,89.44
+Los Angeles City Employees' Retirement System,7237,2023,06/30/2023,Segal,25299537118,18493821018,6805716100,73.1,2512179018,270.91,Entry Age,NULL,17953292567,7346244551,70.96
+Los Angeles County Employees' Retirement Association,7263,2023,06/30/2022,Milliman,86320151000,68711610000,17608541000,79.6,9100790705,193.48,Entry Age,NULL,72638823188,13681327812,84.15
+Los Angeles County Transportation Authority AFSCME Employees' Retirement Income Plan,9235,2023,12/31/2022,Willis Towers Watson,54602087,47142304,7459783,86.34,941289,792.51,Projected Unit Credit,NULL,41598646,13003441,76.19
+Los Angeles County Transportation Authority Maintenance Employees' Retirement System,7161,2023,01/01/2023,Rael & Letson,825339560,672182851,153156709,81.44,206922000,74.02,Entry Age,NULL,598880077,226459483,72.56
+Los Angeles County Transportation Authority Non-Contract Employees' Retirement System,7162,2023,12/31/2022,Willis Towers Watson,139168834,118942259,20226575,85.47,1624084,1245.41,Projected Unit Credit,NULL,105496006,33672828,75.8
+Los Angeles County Transportation Authority SMART - TD Retirement,7163,2023,12/31/2022,Willis Towers Watson,901573889,781427532,120146357,86.67,250560476,47.95,Projected Unit Credit,NULL,691181628,210392261,76.66
+Los Angeles County Transportation Authority Transportation Communication - Union Employees' Retirement System,7160,2023,12/31/2022,Willis Towers Watson,202978909,180621480,22357429,88.99,58912951,37.95,Projected Unit Credit,NULL,160207969,42770940,78.93
+Marin County Employees' Retirement Association,7264,2023,06/30/2022,Cheiron,3325800000,3009900000,315900000,90.5,0,,Entry Age,NULL,3009879148,315920852,90.5
+Marin County Transit District Service Credit Replacement Plan,13268,2023,06/30/2023,Island Actuarial Services,474653,319012,155641,67.21,0,,Entry Age,NULL,319012,155641,67.21
+Mendocino County Employees' Retirement Association,7265,2023,06/30/2023,The Segal Company,926631003,671244999,255386004,72.44,90739475,,Entry Age,NULL,663909608,262721395,71.65
+Merced County Employees' Retirement Association,7266,2023,06/30/2021,Cheiron Inc,1491232336,1163253844,327978492,78.01,150390441,218.08,Other,Entry Age Normal,1163253844,327978492,78.01
+Modesto Irrigation District Basic Retirement Plan,7186,2023,01/01/2023,Cheiron Inc.,500321114,395038856,105282258,78.96,48842433,215.55,Entry Age,NULL,483309128,17011986,96.6
+Orange County Employees' Retirement System,7267,2023,12/31/2021,Segal Consulting,24016073000,19488761000,4527312000,81.15,2052706000,220.55,Entry Age,NULL,21738794000,2277279000,90.52
+Public Agency Retirement System Defined Benefit Plans,7215,2023,06/30/2022,Milliman USA,11578287,7359758,4218529,63.57,194345866,2.17,Other,Discount Rate,,,
+Public Employees' Retirement Fund (PERF) A,12892,2023,06/30/2022,CalPERS Actuarial & Employer Services Division,619329000000,439388000000,179941000000,70.95,62363000000,288.54,Entry Age,NULL,439388000000,179941000000,70.95
+Public Employees' Retirement Fund (PERF) B,12893,2023,06/30/2022,CalPERS Actuarial & Employer Services Division,,,,,0,,Other,Individual Entry Age Normal,,,
+Public Employees' Retirement Fund (PERF) C,12894,2023,06/30/2022,CalPERS Actuarial & Employer Services Division,,,,,0,,Other,Individual Entry Age Normal,,,
+Sacramento County Employees' Retirement System,7268,2023,06/30/2023,Segal,14358854000,12423093000,1935761000,86.52,1175393299,164.69,Entry Age,NULL,12363258000,1995596000,86.1
+Sacramento Regional Transit District ATU Employees' Retirement Plan,12847,2023,07/01/2022,Cheiron Inc,211290638,162354851,48935787,76.84,39651360,123.42,Entry Age,NULL,156631655,54658983,74.13
+Sacramento Regional Transit District IBEW Employees' Retirement Plan,12848,2023,07/01/2022,Cheiron Inc,97985595,72224290,25761305,73.71,15215158,169.31,Entry Age,NULL,69808432,28177163,71.24
+Sacramento Regional Transit District Salaried Employees' Retirement Plan,7165,2023,07/01/2022,Cheiron Inc,183590990,124607538,58983452,67.87,30417243,193.91,Entry Age,NULL,120583101,63007889,65.68
+San Bernardino County Employees' Retirement Association,7269,2023,06/30/2023,Segal Consulting Co,16446672000,14157370000,2289302000,86.08,1812216000,,Entry Age,NULL,14071350000,2375322000,85.56
+San Diego City Employees' Retirement System,7246,2023,06/30/2022,Cheiron,12801258375,9811726751,2989531624,76.65,597997917,,Entry Age,NULL,10000031774,2801226601,78.12
+San Diego County Employees' Retirement Association,7270,2023,06/30/2023,Segal,21628740000,16513041000,5115699000,76.35,1679866545,,Entry Age,NULL,15771333000,5857407000,72.92
+San Diego Transit Corporation Employees' Retirement Plan,7200,2023,06/30/2023,Cheiron,342852868,196279951,146572917,57.25,23631077,620.25,Entry Age,NULL,183172692,159680176,53.43
+San Francisco City and County Employees' Retirement System,7247,2023,07/01/2022,Cheiron,33591565000,32275474000,1316091000,96.08,4038466048,,Entry Age,NULL,32798524000,793041000,97.64
+San Joaquin County Employees' Retirement Association,7271,2023,01/01/2022,Cheiron,5323788814,3852266458,1471522356,72.36,487931550,301.58,Entry Age,NULL,4198788004,1125000810,78.87
+San Joaquin Regional Transit District Contract Employees' Retirement Plan,7166,2023,07/01/2022,Foster & Foster Actuaries and Consultants,79621000,51364000,28257000,64.51,8202000,344.51,Entry Age,NULL,46491000,33130000,58.39
+San Luis Obispo County Pension Trust,7272,2023,01/01/2022,Cheiron,2498107000,1619357000,878750000,64.82,227731465,385.87,Entry Age,NULL,1749963000,748144000,70.05
+San Mateo County Employees' Retirement Association,7273,2023,06/30/2023,Milliman,7035641000,6215283000,820358000,88.34,631144281,129.98,Entry Age,NULL,6005043000,1030598000,85.35
+Santa Barbara County Employees' Retirement System,7274,2023,06/30/2023,Cheron,4713760000,3896843000,816917000,82.67,412151000,198.21,Entry Age,NULL,3896843000,816917000,82.67
+Santa Clara Valley Transportation Authority Amalgamated Transit Union Pension Plan,7167,2023,01/01/2023,Cheiron Inc.,877721092,683862814,193858278,77.91,149576036,129.61,Entry Age,n/a,620376453,257344639,70.68
+Self-Insured Schools of California Defined Benefit Plan,7183,2023,12/31/2022,Total Compensation Systems,65453944,58992682,6461262,90.13,108808285,5.94,Projected Unit Credit,NULL,56917733,8536211,86.96
+Sonoma County Employees' Retirement Association,7275,2023,12/31/2022,The Segal Group,3582766000,3311174000,271592000,92.42,423271414,64.16,Entry Age,NULL,3169632000,413134000,88.47
+Stanislaus County Employees' Retirement Association,7276,2023,06/30/2021,Cheiron,3153032000,2483712000,669320000,78.77,333330505,200.8,Entry Age,NULL,2205866239,947165761,69.96
+Sunline Transit Retirement Income Plan - Bargaining Unit Personnel,7182,2023,01/01/2022,Nyhart,33437387,36803765,-3366378,110.07,10148861,-33.17,Entry Age,NULL,41361273,-7923886,123.7
+Sunline Transit Retirement Income Plan - Non-Bargaining Unit Personnel,7400,2023,01/01/2022,Nyhart,33401229,36787875,-3386646,110.14,5613094,-60.33,Entry Age,NULL,41369897,-7968668,123.86
+Tulare County Employees' Retirement Association,7277,2023,06/30/2021,CHEIRON,1957985000,1759025000,198960000,89.84,286886367,69.35,Entry Age,NULL,1867739000,90246000,95.39
+Turlock Irrigation District Pension Plan,7187,2023,01/01/2023,Nyhart,435199252,407637981,27561271,93.67,47178115,58.42,Entry Age,NULL,360274931,74924321,82.78
+University of California Retirement Plan,7211,2023,07/01/2023,Segal Consulting,110057241000,90044950000,20012291000,81.82,15179060333,131.84,Entry Age,NULL,88194785000,21862456000,80.14
+Ventura County Employees' Retirement Association,7278,2023,06/30/2023,The Segal Group Inc.,7870801000,7640705000,230096000,97.08,941042109,24.45,Entry Age,NULL,7578238000,292563000,96.28
+West Contra Costa Healthcare District Successor Retirement Plan,8275,2023,07/01/2023,USI Consulting Group,14321201,7912279,6408922,55.25,0,,Entry Age,NULL,7742019,6579182,54.06
+AC Transit Employees' Retirement Plan,7159,2022,01/01/2020,Cheiron,1125454854,857510000,267944854,76.19,177734000,150.76,Entry Age,NULL,911351000,214103854,80.98
+Alameda County Employees' Retirement Association,7258,2022,12/31/2021,Segal,10929935000,9453108000,1476827000,86.49,1204499000,122609.23,Entry Age,NULL,10139166000,790769000,92.77
+Antelope Valley Hospital Medical Center Retirement Plan,7148,2022,07/01/2021,Milliman,445288135,281697091,163591044,63.26,160280319,,Entry Age,NULL,317513529,127774606,71.31
+California State Teachers' Retirement System,7209,2022,06/30/2021,Milliman,332082000000,242363000000,89719000000,72.98,34668000000,258.79,Entry Age,NULL,271946000000,60136000000,81.89
+City of Alameda Police and Fire Pension 1079 and 1082,7218,2022,06/30/2022,Nyhart,4361266,0,4361266,,0,,Other,Mortality-Mortality Improvement Scale MP 2014 with 15 years convergence to 2022,0,,
+City of Albany Police and Fire Relief Pension Fund,7219,2022,11/11/2022,Van Iwaarden Associates,13860551,4078344,9782207,29.42,0,,Entry Age,NULL,4078344,9782207,29.42
+City of Berkeley Safety Members' Pension Fund,7220,2022,06/30/2022,Bartel Associates LLC,1134809,0,1134809,,0,,Other,Average remaining lifetime of participants,0,,
+City of Concord Retirement System,7230,2022,06/30/2020,Bartel Associates LLC,53154,30512,22642,57.4,0,,Entry Age,NULL,30512,22642,57.4
+City of Delano Employee Pension Plan,7235,2022,07/01/2022,Nyhart,60024215,44142525,15881690,73.54,8660810,183.37,Entry Age,NULL,40129569,19894646,66.86
+City of El Cerrito Employees' Pension Trust Fund,7225,2022,09/23/2021,NULL,,,,,91747,,Projected Unit Credit,NULL,,,
+City of Emeryville Pension Plan,7221,2022,06/30/2019,Foster & Foster (Bartel Asso. LLC),100090,0,100090,,0,,Projected Unit Credit,NULL,0,100090,
+City of Eureka Fire and Police Retirement System,7233,2022,06/30/2021,GovInvest,2359962,,,,0,,Other,Straight Line,,,
+City of Fresno Employees' Retirement System,7232,2022,06/30/2022,The Segal Company,1271762000,1449730315,-177968315,113.99,171675634,-103.67,Entry Age,NULL,1400581000,-128819000,110.13
+City of Fresno Fire and Police Retirement System,7231,2022,06/30/2022,The Segal Company,1486611000,1791487319,-304876319,120.51,127826000,-238.51,Entry Age,NULL,1731900000,-245289000,116.5
+City of Irvine Safety Defined Benefit Pension Plan,7243,2022,01/01/2021,USI Consulting Group,23356881,20000171,3356710,85.63,265260,1265.44,Entry Age,NULL,21505149,1851732,92.07
+City of Los Angeles Fire and Police Pension System,7236,2022,06/30/2022,Segal Consulting,25670765985,25146787428,523978557,97.96,1664317874,31.48,Entry Age,NULL,25258536156,412229829,98.39
+City of Los Angeles Water and Power Employees' Retirement Plan,7238,2022,07/01/2022,The Segal Company,16130108757,15812000418,318108339,98.03,1178016102,27,Entry Age,NULL,15513924394,616184363,96.18
+City of Manhattan Beach Single Highest Year Retirement Plan,7240,2022,06/30/2022,Total Compensation Systems,118015,40025,77990,33.92,0,,Entry Age,NULL,,,
+City of Manhattan Beach Supplemental Retirement Plan,7241,2022,06/30/2022,Total Compensation Systems,52385,13342,39043,25.47,0,,Entry Age,NULL,,,
+City of Oakland Fire and Police Retirement System,7222,2022,07/01/2021,Cheiron,571942,412680,159262,72.15,0,,Entry Age,NULL,0,571942,
+City of Pasadena Fire and Police Retirement System,7239,2022,06/30/2022,Foster & Foster,131139000,115181000,15958000,87.83,12072173,132.19,Entry Age,NULL,111709000,19430000,85.18
+City of Piedmont Police and Fire Pension Plan,7224,2022,06/30/2022,Bartel Associates LLC,1324879,14766141,-13441262,1114.53,0,,Aggregate,NULL,14766141,-13441262,1114.53
+City of Richmond Garfield Pension Plan,7229,2022,06/30/2021,Van Iwaarden,272057,207855,64202,76.4,0,,Entry Age,NULL,207855,64202,76.4
+City of Richmond General Pension Plan,7227,2022,06/30/2021,Van Iwaarden,1452567,1070264,382303,73.68,0,,Entry Age,NULL,1070264,382303,73.68
+City of Richmond Police and Firemen's Pension Plan,7228,2022,06/30/2021,Van Iwaarden,7839576,10057651,-2218075,128.29,0,,Entry Age,NULL,10057651,-2218075,128.29
+City of Sacramento City Employees' Retirement System,7245,2022,06/30/2022,Foster & Foster Consulting Actuaries Inc.,270541000,262645000,7896000,97.08,189000,4177.78,Entry Age,NULL,254171000,16370000,93.95
+City of San Clemente Restated Employees' Retirement Plan,7244,2022,06/30/2021,Foster & Foster Actuaries and Consultants,42649000,22994000,19655000,53.91,476851,4121.83,Entry Age,NULL,22994000,19655000,53.91
+City of San Jose Federated City Employees' Retirement System,7249,2022,06/30/2021,Cheiron,4562981000,2513095000,2049886000,55.08,348307000,588.53,Entry Age,NULL,2884344000,1678637000,63.21
+City of San Jose Police and Fire Retirement Plan,7250,2022,06/30/2021,Cheiron,5441660000,4210447000,1231213000,77.37,251057000,490.41,Entry Age,NULL,4726642000,715018000,86.86
+City of Santa Barbara Police and Fire Pension Fund,7248,2022,06/30/2021,Foster & Foster,111392,,,,0,,Other,Actuarial cost methods are only applicable when you have active employees.,,,
+Contra Costa County Employees' Retirement Association,7259,2022,12/31/2020,Segal Consulting,10521628175,9662282926,859345249,91.83,990041699,,Entry Age,NULL,10070237862,451390313,95.71
+Contra Costa Water District Retirement Plan,7172,2022,06/30/2021,Van Iwaarden Associates,267869604,233056796,34812808,87,35121766,99.12,Entry Age,NULL,263920593,3949011,98.53
+Desert Hospital Retirement Protection Plan,7398,2022,06/30/2022,Nyhart,3588592,4597838,-1009246,128.12,0,,Entry Age,NULL,,,
+East Bay Municipal Utility District Employees' Retirement System,7168,2022,06/30/2021,Segal Consulting,2605613762,2045502995,560110767,78.5,235151000,238.19,Entry Age,NULL,2270763000,334850762,87.15
+Fresno County Employees' Retirement Association,7260,2022,06/30/2020,Segal Consulting,6320381000,5226009000,1094372000,82.69,485586432,225.37,Entry Age,NULL,4935295000,1385086000,78.09
+Golden Gate Transit District Amalgamated Retirement Plan,7144,2022,01/01/2021,Cheiron,200230814,100790020,99440794,50.34,19332000,514.38,Entry Age,NULL,103122655,97108159,51.5
+Greater Palm Springs Convention and Visitor's Bureau Defined Benefit Pension Plan,13131,2022,06/30/2022,DFA Actuaries LLP,7924003,8088657,-164654,102.08,2482619,-6.63,Entry Age,NULL,7405123,518880,93.45
+Imperial County Employees' Retirement System,7261,2022,06/30/2022,The Segal Company,1176722000,1091781000,84941000,92.78,134257000,63.27,Entry Age,NULL,1036383000,140339000,88.07
+Judges' Retirement System I,7205,2022,06/30/2021,CalPERS Actuarial & Employer Services Division,2803230000,65882000,2737348000,2.35,24752164,11059.02,Entry Age,NULL,65882000,2737348000,2.35
+Judges' Retirement System II,7206,2022,06/30/2021,CalPERS Actuarial & Employer Services Division,1964844000,2403366000,-438522000,122.32,350945000,-124.95,Entry Age,NULL,2403366000,-438522000,122.32
+Kaweah Delta Hospital District Employees' Retirement Plan,7149,2022,06/30/2021,Willis Towers Watson,304929592,265140533,39789059,86.95,0,,Entry Age,NULL,265140533,39789059,86.95
+Kern County Employees' Retirement Association,7262,2022,06/30/2022,Segal Consulting,7372653000,5102402000,2270251000,69.21,612609000,370.59,Entry Age,NULL,4882350000,2490303000,66.22
+Legislators' Retirement System,7207,2022,06/30/2021,CalPERS Actuarial & Employer Services Division,95562165,123525223,-27963058,129.26,282673,-9892.37,Entry Age,NULL,123525223,-27963058,129.26
+Long Beach Public Transportation Company Retirement Plan - Contract Employees,7198,2022,07/01/2022,NWPS,98511679,69897651,28614028,70.95,32022000,89.36,Frozen Entry Age,NULL,69897651,28614028,70.95
+Long Beach Public Transportation Company Retirement Plan - Salaried Employees,7199,2022,07/01/2022,NWPS,35619511,32041203,3578308,89.95,3923000,91.21,Frozen Entry Age,NULL,32041203,3578308,89.95
+Los Angeles City Employees' Retirement System,7237,2022,06/30/2022,Segal,24078751303,17649267571,6429483732,73.3,2258724771,284.65,Entry Age,NULL,17013091063,7065660240,70.66
+Los Angeles County Employees' Retirement Association,7263,2022,06/30/2021,Milliman,81898044000,64909377000,16988667000,79.26,9062051304,187.47,Entry Age,NULL,75363970038,6534073962,92.02
+Los Angeles County Transportation Authority AFSCME Employees' Retirement Income Plan,9235,2022,12/31/2021,Willis Towers Watson,54854557,48591570,6262987,88.58,909425,688.68,Projected Unit Credit,NULL,53010344,1844213,96.64
+Los Angeles County Transportation Authority Maintenance Employees' Retirement System,7161,2022,01/01/2022,Rael-Letson,779034244,626779473,152254771,80.46,196165000,77.62,Entry Age,NULL,691089506,87944738,88.71
+Los Angeles County Transportation Authority Non-Contract Employees' Retirement System,7162,2022,12/31/2021,Willis Towers Watson,141652862,122597987,19054875,86.55,1960332,972.02,Projected Unit Credit,NULL,135710419,5942443,95.8
+Los Angeles County Transportation Authority SMART - TD Retirement,7163,2022,12/31/2021,Willis Towers Watson,858120274,754911234,103209040,87.97,223337778,46.21,Projected Unit Credit,NULL,844994693,13125581,98.47
+Los Angeles County Transportation Authority Transportation Communication - Union Employees' Retirement System,7160,2022,12/31/2021,Willis Towers Watson,191242638,167596155,23646483,87.64,57637117,,Projected Unit Credit,NULL,184613148,6629490,96.53
+Marin County Employees' Retirement Association,7264,2022,06/30/2021,Cheiron,3216900000,3361600000,-144700000,104.5,0,-10565,Entry Age,NULL,3361565083,-144665083,104.5
+Marin County Transit District Service Credit Replacement Plan,13268,2022,06/30/2022,Island Actuarial Services,447786,269345,178441,60.15,0,,Entry Age,NULL,269345,178441,60.15
+Mendocino County Employees' Retirement Association,7265,2022,06/30/2022,The Segal Group,871590734,637645858,233944876,73.16,84828649,,Entry Age,NULL,621934385,249656349,71.36
+Merced County Employees' Retirement Association,7266,2022,06/30/2020,Cheiron Inc,1412881373,919815072,493066301,65.1,142704680,345.52,Other,Entry Age Normal,919815072,493066301,65.1
+Modesto Irrigation District Basic Retirement Plan,7186,2022,01/01/2022,Cheiron Inc.,483309128,484412870,-1103742,100.23,44355984,-2.49,Entry Age,NULL,459147602,24161398,95
+Orange County Employees' Retirement System,7267,2022,12/31/2020,Segal Consulting,22904975000,17525117000,5379858000,76.51,1962869000,274.08,Entry Age,NULL,18494378000,4410597000,80.74
+Public Agency Retirement System Defined Benefit Plans,7215,2022,06/30/2022,Milliman. Inc,11578287,7359758,4218529,63.57,225221474,1.87,Other,Discount Rate,,,
+Public Employees' Retirement Fund (PERF) A,12892,2022,06/30/2021,alPERS Actuarial & Employer Services Division,587976000000,477338000000,110638000000,81.18,58748000000,188.33,Entry Age,NULL,477338000000,110638000000,81.18
+Public Employees' Retirement Fund (PERF) B,12893,2022,06/30/2021,NULL,,,,,0,,Other,Individual Entry Age Normal,,,
+Public Employees' Retirement Fund (PERF) C,12894,2022,06/30/2020,NULL,,,,,0,,Other,Individual Entry Age Normal,,,
+Sacramento County Employees' Retirement System,7268,2022,06/01/2021,Segal Consulting,13578984000,11647866000,1931118000,85.78,1078235461,179.1,Entry Age,NULL,11830351000,1748633000,87.12
+Sacramento Regional Transit District ATU Employees' Retirement Plan,12847,2022,07/01/2021,Cheiron Inc,206469529,154573364,51896165,74.86,38050032,,Entry Age,NULL,171544565,34924964,83.08
+Sacramento Regional Transit District IBEW Employees' Retirement Plan,12848,2022,07/01/2021,Cheiron Inc,94248871,68244901,26003970,72.41,14720399,,Entry Age,NULL,75917397,18331474,80.55
+Sacramento Regional Transit District Salaried Employees' Retirement Plan,7165,2022,07/01/2021,Cheiron Inc,176156667,115483473,60673194,65.56,28436264,,Entry Age,NULL,129366721,46789946,73.44
+San Bernardino County Employees' Retirement Association,7269,2022,06/30/2022,Segal Consulting Co,15630124000,13260596000,2369528000,84.84,1663992000,,Entry Age,NULL,13302916000,2327208000,85.11
+San Diego City Employees' Retirement System,7246,2022,06/30/2022,Cheiron,12801258375,9811726751,2989531624,76.65,597997917,,Entry Age,NULL,10000031774,2801226601,78.12
+San Diego County Employees' Retirement Association,7270,2022,06/30/2022,Segal,20541288000,15763835000,4777453000,76.74,1504227792,317.6,Entry Age,NULL,14503991000,6037297000,70.61
+San Diego Transit Corporation Employees' Retirement Plan,7200,2022,06/30/2022,Cheiron,337148571,195924568,141224003,58.11,25059762,563.55,Entry Age,NULL,176877426,160271145,52.46
+San Francisco City and County Employees' Retirement System,7247,2022,07/01/2021,Cheiron,31905275000,30043222000,1862053000,94.16,3708897220,,Entry Age,NULL,35673834000,-3768559000,111.81
+San Joaquin County Employees' Retirement Association,7271,2022,01/01/2021,Cheiron,5207669301,3487424521,1720244780,66.97,471125414,365.14,Entry Age,NULL,3546712249,1660957052,68.11
+San Joaquin Regional Transit District Contract Employees' Retirement Plan,7166,2022,07/01/2020,Bartel Associates LLC,77431000,44689000,32742000,57.71,8327000,393.2,Entry Age,NULL,42814000,34617000,55.29
+San Luis Obispo County Pension Trust,7272,2022,01/01/2021,Cheiron,2313128000,1506270000,806858000,65.12,215475700,374.45,Entry Age,NULL,1566326000,746802000,67.71
+San Mateo County Employees' Retirement Association,7273,2022,06/30/2022,Milliman,6530039000,5922894000,607145000,90.7,611956610,99.21,Entry Age,NULL,5649674000,880365000,86.52
+Santa Barbara County Employees' Retirement System,7274,2022,06/30/2022,Cheiron,4460991,3990899,470092,89.46,395157000,0.12,Entry Age,NULL,3990899,470092,89.46
+Santa Clara Valley Transportation Authority Amalgamated Transit Union Pension Plan,7167,2022,01/01/2022,Cheiron Inc.,841509266,667612246,173897020,79.34,143981847,120.78,Entry Age,n/a,720809632,120699634,85.66
+Self-Insured Schools of California Defined Benefit Plan,7183,2022,12/31/2021,Total Compensation Systems,60434634,70520246,-10085612,116.69,84060167,-12,Projected Unit Credit,NULL,72361474,-11926840,119.74
+Sonoma County Employees' Retirement Association,7275,2022,12/31/2021,The Segal Group,3460051000,3215505000,244546000,92.93,408278337,59.9,Entry Age,NULL,3521361000,-61310000,101.77
+Stanislaus County Employees' Retirement Association,7276,2022,06/30/2020,Cheiron Inc.,3028647000,2290287000,738360000,75.62,303573549,243.22,Entry Age,NULL,2730597870,298049130,90.16
+Sunline Transit Retirement Income Plan - Bargaining Unit Personnel,7182,2022,01/01/2021,Nyhart,32335364,32427018,-91654,100.28,11240877,-0.82,Entry Age,NULL,36393416,-4058052,112.55
+Sunline Transit Retirement Income Plan - Non-Bargaining Unit Personnel,7400,2022,01/01/2021,NyHart,31409094,32577009,-1167915,103.72,6487132,-18,Entry Age,NULL,36572923,-5163829,116.44
+Tulare County Employees' Retirement Association,7277,2022,06/30/2020,CHEIRON,1875797000,1670786000,205011000,89.07,284272002,72.12,Entry Age,NULL,1507070000,368727000,80.34
+Turlock Irrigation District Pension Plan,7187,2022,01/01/2023,Nyhart,415898336,389482409,26415927,93.65,45101022,58.57,Entry Age,NULL,428466621,-12568285,103.02
+University of California Retirement Plan,7211,2022,07/01/2022,Segal Consulting,102715788000,85720233000,16995555000,83.45,14346555352,118.46,Entry Age,NULL,81363023000,21352765000,79.21
+Ventura County Employees' Retirement Association,7278,2022,06/30/2022,Segal Consultants,7491327000,7279606000,211721000,97.17,873042611,,Entry Age,NULL,7025332000,465995000,93.78
+West Contra Costa Healthcare District Successor Retirement Plan,8275,2022,07/01/2022,USI Consulting Group,14451913,6657342,7794571,46.07,0,,Entry Age,NULL,6409137,8042776,44.35
+AC Transit Employees' Retirement Plan,7159,2021,01/01/2020,Cheiron,1084688403,788654000,296034403,72.71,193938000,152.64,Entry Age,NULL,837867000,246821403,77.24
+Alameda County Employees' Retirement Association,7258,2021,12/31/2020,Segal,10484180000,7984241000,2499939000,76.16,1155697000,216314.4,Entry Age,NULL,8389373000,2094807000,80.02
+Antelope Valley Hospital Medical Center Retirement Plan,7148,2021,07/01/2020,Milliman,412757973,249189893,163568080,60.37,155611960,,Entry Age,NULL,245003965,167754008,59.36
+California State Teachers' Retirement System,7209,2021,06/30/2020,Milliman,322127000000,216252000000,105875000000,67.13,34617000000,305.85,Entry Age,NULL,214128000000,107999000000,66.47
+City of Alameda Police and Fire Pension 1079 and 1082,7218,2021,06/30/2021,Nyhart Actuary & Employee Benefits,6320535,0,6320535,,0,,Other,Mortality-Mortality Improvement Scale MP 2014 with 15 years convergence to 2022,0,6320535,
+City of Albany Police and Fire Relief Pension Fund,7219,2021,03/17/2022,Van Iwaarden Associates,13860551,4078344,9782207,29.42,0,,Entry Age,NULL,4078344,9782207,29.42
+City of Berkeley Safety Members' Pension Fund,7220,2021,06/30/2021,Bartel Associates LLC,1548284,0,1548284,,0,,Other,Average remaining lifetime of participants,0,,
+City of Concord Retirement System,7230,2021,06/30/2020,Bartel Associates LLC,53154,30512,22642,57.4,0,,Entry Age,NULL,30512,22642,57.4
+City of Delano Employee Pension Plan,7235,2021,07/01/2021,Nyhart,57586494,47231206,10355288,82.02,8712149,118.86,Entry Age,NULL,47231206,10355288,82.02
+City of El Cerrito Employees' Pension Trust Fund,7225,2021,09/23/2021,NULL,,,,,89205,,Projected Unit Credit,NULL,,,
+City of Emeryville Pension Plan,7221,2021,06/30/2019,Bartel Asso. LLC,100090,0,100090,,0,,Projected Unit Credit,NULL,0,100090,
+City of Eureka Fire and Police Retirement System,7233,2021,06/30/2021,GovInvest,2359962,,,,0,,Entry Age,NULL,,,
+City of Fresno Employees' Retirement System,7232,2021,06/30/2021,The Segal Company,1189980000,1380265471,-190285471,115.99,160372084,-118.65,Entry Age,NULL,1579058000,-389078000,132.7
+City of Fresno Fire and Police Retirement System,7231,2021,06/30/2021,The Segal Company,1395140000,1695906219,-300766219,121.56,120177000,-250.27,Entry Age,NULL,1936264000,-541124000,138.79
+City of Irvine Safety Defined Benefit Pension Plan,7243,2021,01/01/2020,Findley,23761392,19402936,4358456,81.66,263645,1653.15,Entry Age,NULL,20035984,3725408,84.32
+City of Los Angeles Fire and Police Pension System,7236,2021,06/30/2021,Segal Consulting,24461267374,23689348796,771918578,96.84,1684784966,,Entry Age,NULL,27862307134,-3401039760,113.9
+City of Los Angeles Water and Power Employees' Retirement Plan,7238,2021,07/01/2021,The Segal Company,15008817566,14889255775,119561791,99.2,1121883556,10.66,Entry Age,N/A,16667463956,-1658646390,111.05
+City of Manhattan Beach Single Highest Year Retirement Plan,7240,2021,06/30/2021,Total Compensation Systems,125489,64370,61119,51.3,0,,Entry Age,NULL,64370,61119,51.3
+City of Manhattan Beach Supplemental Retirement Plan,7241,2021,06/30/2021,Total Compensation Systems,59219,27190,32029,45.91,0,,Entry Age,NULL,27190,32029,45.91
+City of Oakland Fire and Police Retirement System,7222,2021,07/01/2020,Cheiron,597014,371467,225547,62.22,0,,Entry Age,NULL,0,597014,
+City of Pasadena Fire and Police Retirement System,7239,2021,06/30/2021,Bartel Associates LLC,131926000,121488000,10438000,92.09,12505972,83.46,Entry Age,NULL,134733000,-2807000,102.13
+City of Piedmont Police and Fire Pension Plan,7224,2021,06/30/2020,Bartel Associates LLC,1617359,17403329,-15785970,1076.03,0,,Aggregate,NULL,17403329,-15785970,1076.03
+City of Richmond Garfield Pension Plan,7229,2021,06/30/2021,Van Iwaarden,320914,249005,71909,77.59,0,,Entry Age,NULL,249005,71909,77.59
+City of Richmond General Pension Plan,7227,2021,06/30/2021,Van Iwaarden,1808072,1093026,715046,60.45,0,,Entry Age,NULL,1093026,715046,60.45
+City of Richmond Police and Firemen's Pension Plan,7228,2021,06/30/2021,Van Iwaarden,8672774,13113847,-4441073,151.21,0,,Entry Age,NULL,13113847,-4441073,151.21
+City of Sacramento City Employees' Retirement System,7245,2021,06/30/2021,Bartel Associates LLC,282359000,275724000,6635000,97.65,270000,2457.41,Entry Age,NULL,311133000,-28774000,110.19
+City of San Clemente Restated Employees' Retirement Plan,7244,2021,06/30/2019,Bartel Associates LLC,41396000,26009000,15387000,62.83,549043,2802.51,Entry Age,NULL,26009000,15387000,62.83
+City of San Jose Federated City Employees' Retirement System,7249,2021,06/30/2020,Cheiron,4401083000,2301469000,2099614000,52.29,335421000,625.96,Entry Age,NULL,2208016000,2193067000,50.17
+City of San Jose Police and Fire Retirement Plan,7250,2021,06/30/2020,Cheiron,5235335000,3851948000,1383387000,73.58,237476000,582.54,Entry Age,NULL,3702023000,1533312000,70.71
+City of Santa Barbara Police and Fire Pension Fund,7248,2021,06/30/2020,Bartel Associates LLC,156930,,,,0,,Other,Actuarial cost methods are only applicable when you have active employees.,,,
+Contra Costa County Employees' Retirement Association,7259,2021,12/31/2019,Segal,10075722222,9144580232,931141990,90.76,937531265,99.32,Entry Age,NULL,9257012679,818709543,91.87
+Contra Costa Water District Retirement Plan,7172,2021,06/30/2020,Van Iwaarden Associates,250485738,212512141,37973597,84.84,34446322,110.24,Entry Age,NULL,209306542,41179196,83.56
+Desert Hospital Retirement Protection Plan,7398,2021,06/30/2021,Nyhart,3507940,5314972,-1807032,151.51,0,,Entry Age,NULL,,,
+East Bay Municipal Utility District Employees' Retirement System,7168,2021,06/30/2020,Segal Consulting,2535238211,1868917204,666321007,73.72,222419000,299.58,Entry Age,NULL,1813591000,721647211,71.54
+Fresno County Employees' Retirement Association,7260,2021,06/30/2019,Segal Consulting,6086654000,4971225000,1115429000,81.67,457759000,,Entry Age,NULL,4934507000,1152147000,81.07
+Golden Gate Transit District Amalgamated Retirement Plan,7144,2021,01/01/2020,Cheiron,196005176,104182604,91822572,53.15,19709000,474.98,Entry Age,NULL,104382271,91622905,53.25
+Greater Palm Springs Convention and Visitor's Bureau Defined Benefit Pension Plan,13131,2021,06/30/2021,Cheiron Inc.,7889354,7746168,143186,98.19,2466924,5.8,Entry Age,NULL,8452037,-562683,107.13
+Imperial County Employees' Retirement System,7261,2021,06/30/2021,The Segal Company,1145580000,1005105000,140475000,87.74,135725000,103.5,Entry Age,NULL,1126788000,18792000,98.36
+Judges' Retirement System I,7205,2021,06/30/2020,CalPERS Actuarial & Employer Services Division,3105001000,48020000,3056981000,1.55,29137115,10491.71,Entry Age,NULL,48020000,3056981000,1.55
+Judges' Retirement System II,7206,2021,06/30/2020,CalPERS Actuarial & Employer Services Division,1913088000,1885404000,27684000,98.55,351443000,7.88,Entry Age,NULL,1885404000,27684000,98.55
+Kaweah Delta Hospital District Employees' Retirement Plan,7149,2021,06/30/2020,Willis Towers Watson,297776486,320047417,-22270931,107.48,0,,Entry Age,NULL,320047417,-28815822,109.89
+Kern County Employees' Retirement Association,7262,2021,06/30/2021,Segal Consulting,7164225000,4806026000,2358199000,67.08,604320000,390.22,Entry Age,NULL,5235090000,1927160004,73.09
+Legislators' Retirement System,7207,2021,06/30/2020,CalPERS Actuarial & Employer Services Division,96348453,115538308,-19189855,119.92,282673,-6788.71,Entry Age,NULL,115538308,-19189855,119.92
+Long Beach Public Transportation Company Retirement Plan - Contract Employees,7198,2021,07/01/2021,Venuti & Associates,97238338,81807082,15431256,84.13,30015000,51.41,Entry Age,NULL,81807082,15431256,84.13
+Long Beach Public Transportation Company Retirement Plan - Salaried Employees,7199,2021,07/01/2021,Venuti & Associates,36225266,37790805,-1565539,104.32,4869000,-32.15,Frozen Entry Age,NULL,37790805,-1565539,104.32
+Los Angeles City Employees' Retirement System,7237,2021,06/30/2021,The Segal Company,23281892854,16660584654,6621308200,71.56,2254165029,293.74,Entry Age,NULL,18918136000,4363756854,81.26
+Los Angeles County Employees' Retirement Association,7263,2021,06/30/2020,Milliman,78275175000,59762991000,18512184000,76.35,8724151151,212.19,Entry Age,NULL,61360972171,16914202829,78.39
+Los Angeles County Transportation Authority AFSCME Employees' Retirement Income Plan,9235,2021,12/31/2020,Willis Towers Watson,56966304,47990549,8975755,84.24,1185347,757.23,Projected Unit Credit,NULL,51923189,5043115,91.15
+Los Angeles County Transportation Authority Maintenance Employees' Retirement System,7161,2021,01/01/2021,Rael & Letson,733603014,550691491,182911523,75.07,186974000,97.83,Entry Age,NULL,601480484,132122530,81.99
+Los Angeles County Transportation Authority Non-Contract Employees' Retirement System,7162,2021,12/31/2020,Willis Towers Watson,142199205,119205362,22993843,83.83,2875286,799.71,Projected Unit Credit,NULL,129805876,12393329,91.28
+Los Angeles County Transportation Authority SMART - TD Retirement,7163,2021,12/31/2020,Willis Towers Watson,820046814,677900561,142146253,82.67,220964771,64.33,Projected Unit Credit,NULL,750002884,70043930,91.46
+Los Angeles County Transportation Authority Transportation Communication - Union Employees' Retirement System,7160,2021,12/31/2020,Willis Towers Watson,178653654,146940382,31713272,82.25,54261707,16.96,Projected Unit Credit,NULL,159492196,19161458,89.27
+Marin County Employees' Retirement Association,7264,2021,06/30/2020,Chieron,2972689220,0,2972689220,,270691310,,Entry Age,NULL,2573279944,399409276,86.56
+Mendocino County Employees' Retirement Association,7265,2021,06/30/2021,The Segal Group,819983481,598428325,221555156,72.98,80908634,,Entry Age,NULL,696441302,123542179,84.93
+Merced County Employees' Retirement Association,7266,2021,06/30/2019,Cheiron Inc,1370195307,866503284,503692023,63.24,135358149,372.12,Other,Entry Age Normal,866503284,503692023,63.24
+Modesto Irrigation District Basic Retirement Plan,7186,2021,01/01/2021,Cheiron Inc.,459147602,417290992,41856610,90.88,44514659,94.03,Entry Age,NULL,423811159,35336443,92.3
+Orange County Employees' Retirement System,7267,2021,12/31/2019,Segal Consulting,21916730000,16036869000,5879861000,73.17,1952534000,301.14,Entry Age,NULL,16516024000,5400706000,75.36
+Public Agency Retirement System Defined Benefit Plans,7215,2021,06/30/2020,Milliman Inc.,14234951,7736360,6498591,54.35,233244119,2.64,Other,Discount Rate,,,
+Public Employees' Retirement Fund (PERF) A,12892,2021,06/30/2020,CalPERS Actuarial & Employer Services Division,554679000000,391381000000,163298000000,70.56,58606000000,,Entry Age,NULL,391381000000,163298000000,70.56
+Public Employees' Retirement Fund (PERF) B,12893,2021,06/30/2020,CalPERS Actuarial & Employer Services Division,,,,,0,,Entry Age,NULL,,,
+Public Employees' Retirement Fund (PERF) C,12894,2021,06/30/2020,CalPERS Actuarial & Employer Services Division,,,,,0,,Entry Age,NULL,,,
+Sacramento County Employees' Retirement System,7268,2021,06/30/2021,Segal Consulting,13309706000,10929549000,2380157000,82.12,1034344000,230.11,Entry Age,NULL,12564149000,745557000,94.4
+Sacramento Regional Transit District ATU Employees' Retirement Plan,12847,2021,07/01/2020,Cheiron Inc,200934482,143383273,57551209,71.36,35808872,160.72,Entry Age,NULL,137424052,63510430,68.39
+Sacramento Regional Transit District IBEW Employees' Retirement Plan,12848,2021,07/01/2020,Cheiron Inc,90791309,63138388,27652921,69.54,15245596,181.38,Entry Age,NULL,60379125,30412184,66.5
+Sacramento Regional Transit District Salaried Employees' Retirement Plan,7165,2021,07/01/2020,Cheiron Inc,169966908,105061692,64905216,61.81,26792691,242.25,Entry Age,NULL,100552171,69414737,59.16
+San Bernardino County Employees' Retirement Association,7269,2021,06/30/2021,Segal Consulting Co,14957435000,12258925000,2698510000,81.96,1626449000,165.81,Entry Age,NULL,13637493000,1319942000,91.18
+San Diego City Employees' Retirement System,7246,2021,06/30/2021,Cheiron,12390423840,9281339061,3109084779,74.91,535632451,580.45,Entry Age,NULL,10293621480,2096802360,83.08
+San Diego County Employees' Retirement Association,7270,2021,06/30/2021,Segal,18339923000,14671508000,3668415000,80,1463344879,250.69,Entry Age,NULL,15964725000,2375198000,87.05
+San Diego Transit Corporation Employees' Retirement Plan,7200,2021,06/30/2021,Cheiron Inc.,331267043,194296017,136971026,58.65,24891340,550.28,Entry Age,NULL,204471831,126795212,61.72
+San Francisco City and County Employees' Retirement System,7247,2021,07/01/2020,Cheiron,29499918000,26695844000,2804074000,90.49,3586532188,78.18,Entry Age,NULL,26620218000,2879700000,90.24
+San Joaquin County Employees' Retirement Association,7271,2021,01/01/2020,Cheiron,5013632466,3226099142,1787533324,64.35,465002291,384.41,Entry Age,NULL,3244361827,1769270639,64.71
+San Joaquin Regional Transit District Contract Employees' Retirement Plan,7166,2021,12/20/2019,Bartel Associates LLC,75332,42731,32601,56.72,8170000,0.4,Entry Age,NULL,42528,32804,56.45
+San Luis Obispo County Pension Trust,7272,2021,01/01/2020,Gabriel Roeder Smith & Company,2170071483,1416762603,753308880,65.29,218911525,344.12,Entry Age,NULL,1439004203,731067280,66.31
+San Mateo County Employees' Retirement Association,7273,2021,06/30/2021,Milliman,6227066000,5488958000,738108000,88.15,600368542,122.94,Entry Age,NULL,5982086000,244980000,96.07
+Santa Barbara County Employees' Retirement System,7274,2021,06/30/2021,Cheiron,4297728,3193932,1103796,74.32,380355927,0.29,Entry Age,NULL,3193932,1103796,74.32
+Santa Clara Valley Transportation Authority Amalgamated Transit Union Pension Plan,7167,2021,01/01/2021,Cheiron Inc.,815899700,622609373,193290327,76.31,130270603,,Entry Age,n/a,632627301,183272399,77.54
+Self-Insured Schools of California Defined Benefit Plan,7183,2021,12/31/2020,Total Compensation Systems,55751937,58433381,-2681444,104.81,75042881,-3.57,Projected Unit Credit,NULL,65207275,-9455338,116.96
+Sonoma County Employees' Retirement Association,7275,2021,12/31/2020,Segal Consulting,3264403000,2981688000,282715000,91.34,400561892,70.58,Entry Age,NULL,3073675000,190728000,94.16
+Stanislaus County Employees' Retirement Association,7276,2021,06/30/2019,Cheiron Inc.,2897223000,2199956000,697267000,75.93,298044207,,Entry Age,NULL,2208241432,688981568,76.22
+Sunline Transit Retirement Income Plan - Bargaining Unit Personnel,7182,2021,01/01/2020,Nyhart,31029032,28887592,2141440,93.1,11332605,18.9,Entry Age,NULL,30786992,242040,99.22
+Sunline Transit Retirement Income Plan - Non-Bargaining Unit Personnel,7400,2021,01/01/2020,Nyhart,30249446,29154205,1095241,96.38,6016305,18.02,Entry Age,NULL,31083645,-834199,102.76
+Tulare County Employees' Retirement Association,7277,2021,06/30/2019,Cheiron,1741283000,1598431000,142852000,91.8,272415593,52.44,Entry Age,NULL,1538405000,202878000,88.35
+Turlock Irrigation District Pension Plan,7187,2021,01/01/2021,Nyhart,405967115,359823558,46143557,88.63,44521714,103.64,Entry Age,N/A,378531492,27435623,93.24
+University of California Retirement Plan,7211,2021,07/01/2021,Segal Consulting,97243831000,80812073000,16431758000,83.1,14205528073,,Entry Age,NULL,91749794000,5494037000,94.35
+Ventura County Employees' Retirement Association,7278,2021,06/30/2021,Segal Consultants,7154885000,6648154000,506731000,92.92,817636092,61.98,Entry Age,NULL,7681553000,-526668000,107.36
+West Contra Costa Healthcare District Successor Retirement Plan,8275,2021,06/30/2021,Findley a Division,14967780,5587358,9380422,37.33,0,,Entry Age,NULL,5405567,9562213,36.11
+AC Transit Employees' Retirement Plan,7159,2020,01/01/2020,Cheiron,1022223946,724962000,297261946,70.92,191001010,155.63,Entry Age,NULL,746853000,275370946,73.06
+Alameda County Employees' Retirement Association,7258,2020,12/31/2019,Segal Consulting,9795019000,7599977000,2195042000,77.59,1129175000,,Entry Age,NULL,7774898000,2020121000,79.38
+Antelope Valley Hospital Medical Center Retirement Plan,7148,2020,07/01/2019,Milliman,372357417,226170657,146186760,60.74,155267645,,Entry Age,NULL,225518170,146839247,60.56
+California State Teachers' Retirement System,7209,2020,06/30/2019,Milliman,310719000000,205016000000,105703000000,65.98,33679000000,313.85,Entry Age,NULL,208083000000,102636000000,66.97
+City of Alameda Police and Fire Pension 1079 and 1082,7218,2020,06/30/2020,Nyhart Actuary & Employee Benefits,5707771,0,5707771,,0,,Other,Mortality-Mortality Improvement Scale MP 2014 with 15 years convergence to 2022,0,,
+City of Albany Police and Fire Relief Pension Fund,7219,2020,04/19/2021,Van Iwaarden Associates,14218991,3703012,10515979,26.04,0,,Entry Age,NULL,3703012,10515979,26.04
+City of Berkeley Safety Members' Pension Fund,7220,2020,06/30/2019,Bartel Associates LLC,1762635,0,1762635,,0,,Other,Average remaining lifetime of participants,0,,
+City of Concord Retirement System,7230,2020,06/30/2018,Bartel Associates LLC,58431000,32829000,25602000,56.18,0,,Entry Age,NULL,32829000,25602000,56.18
+City of Delano Employee Pension Plan,7235,2020,07/01/2020,Nyhart,53926141,38633035,15293106,71.64,12676623,122.45,Entry Age,NULL,36911239,17014902,68.45
+City of El Cerrito Employees' Pension Trust Fund,7225,2020,06/30/2020,NULL,,,,,89205,,Projected Unit Credit,NULL,,,
+City of Emeryville Pension Plan,7221,2020,06/30/2019,Bartel Asso. LLC,100090,0,100090,,0,,Projected Unit Credit,NULL,0,100090,
+City of Eureka Fire and Police Retirement System,7233,2020,06/30/2020,GovInvest Inc.,2453085,,,,0,,Other,Straight Line,,,
+City of Fresno Employees' Retirement System,7232,2020,06/30/2020,The Segal Company,1155060000,1269173360,-114113360,109.88,156354521,-72.98,Entry Age,NULL,1216143000,-61083000,105.29
+City of Fresno Fire and Police Retirement System,7231,2020,06/30/2020,The Segal Company,1331146000,1547641320,-216495320,116.26,117902000,-1771.3,Entry Age,NULL,1484115000,-152969000,111.49
+City of Irvine Safety Defined Benefit Pension Plan,7243,2020,01/01/2019,Findley,20370165,19267141,1103024,94.59,381026,289.49,Entry Age,NULL,18475506,1894659,90.7
+City of Los Angeles Fire and Police Pension System,7236,2020,06/30/2020,Segal Consulting,23727315018,22106722439,1620592579,93.17,1670245276,97.03,Entry Age,NULL,21396932648,2330382370,90.18
+City of Los Angeles Water and Power Employees' Retirement Plan,7238,2020,07/01/2020,The Segal Company,14465349538,13586120581,879228957,93.92,1130066141,77.8,Entry Age,N/A,13353708096,1111641442,92.32
+City of Manhattan Beach Single Highest Year Retirement Plan,7240,2020,06/30/2020,Total Compensation Systems,282666,108687,173979,38.45,0,,Projected Unit Credit,NULL,108687,173979,38.45
+City of Manhattan Beach Supplemental Retirement Plan,7241,2020,06/30/2020,Total Compensation Systems,106234,21427,84807,20.17,0,,Projected Unit Credit,NULL,21427,84807,20.17
+City of Oakland Fire and Police Retirement System,7222,2020,07/01/2019,Cheiron,622836,361037,261799,57.97,0,,Entry Age,NULL,0,622836,
+City of Pasadena Fire and Police Retirement System,7239,2020,06/30/2020,Bartel Associates LLC,139285000,124255000,15030000,89.21,12773457,117.67,Entry Age,NULL,125204000,14081000,89.89
+City of Piedmont Police and Fire Pension Plan,7224,2020,06/30/2020,Bartel Associates LLC,1629200,12421164,-10791964,762.41,0,,Aggregate,NULL,13640469,-12011269,837.25
+City of Richmond Garfield Pension Plan,7229,2020,07/01/2019,Van Iwaarden,334779,339222,-4443,101.33,0,,Entry Age,NULL,339222,-4443,101.33
+City of Richmond General Pension Plan,7227,2020,07/01/2019,Van Iwaarden,2323004,1067813,1255191,45.97,0,,Entry Age,NULL,1067813,1255191,45.97
+City of Richmond Police and Firemen's Pension Plan,7228,2020,07/01/2019,Van Iwaarden,14363686,11333502,3030184,78.9,0,,Entry Age,NULL,11333502,3030184,78.9
+City of Sacramento City Employees' Retirement System,7245,2020,06/30/2020,Bartel Associates LLC,296667000,266646000,30021000,89.88,362000,8293.09,Entry Age,NULL,263137000,33530000,88.7
+City of San Clemente Restated Employees' Retirement Plan,7244,2020,06/30/2019,Bartel Associates LLC,39309000,20847000,18462000,53.03,546257,3379.73,Entry Age,NULL,20847000,18462000,53.03
+City of San Jose Federated City Employees' Retirement System,7249,2020,06/30/2019,Cheiron,4200708000,2228802000,1971906000,53.06,319980000,616.26,Entry Age,NULL,2132152000,2068556000,50.76
+City of San Jose Police and Fire Retirement Plan,7250,2020,06/30/2019,Cheiron,4988427000,3706302000,1282125000,74.3,230401000,556.48,Entry Age,NULL,3588423000,1400004000,71.93
+City of Santa Barbara Police and Fire Pension Fund,7248,2020,06/30/2019,Bartel Associates LLC,194469,,,,0,,Other,Actuarial cost methods are only applicable when you have active employees.,,,
+Contra Costa County Employees' Retirement Association,7259,2020,12/31/2018,Segal Consulting,9682143750,8650178226,1031965524,89.34,896390769,115.12,Entry Age,NULL,8149985793,1532157957,84.18
+Contra Costa Water District Retirement Plan,7172,2020,06/30/2019,Van Iwaarden Associates,235333807,200478790,34855017,85.19,33246926,104.84,Entry Age,NULL,202900921,32432886,86.22
+Desert Hospital Retirement Protection Plan,7398,2020,06/30/2020,Nyhart,9388217,4783963,4604254,50.96,0,,Entry Age,NULL,,,
+East Bay Municipal Utility District Employees' Retirement System,7168,2020,06/30/2019,Segal Consulting,2340773072,1777065164,563707908,75.92,216550000,260.31,Entry Age,NULL,1792124000,548649072,76.56
+Fresno County Employees' Retirement Association,7260,2020,06/30/2018,Segal Consulting,5893909000,4802958000,1090951000,81.49,431678000,,Entry Age,NULL,4699871000,1194038000,79.74
+Golden Gate Transit District Amalgamated Retirement Plan,7144,2020,01/01/2020,Cheiron,196005176,104182604,91822572,53.15,22247533,412.73,Entry Age,NULL,104382271,91622905,53.25
+Greater Palm Springs Convention and Visitor's Bureau Defined Benefit Pension Plan,13131,2020,06/30/2020,Cheiron Inc.,7487607,6530437,957170,87.22,2516464,38.04,Entry Age,NULL,6538943,948664,87.33
+Imperial County Employees' Retirement System,7261,2020,06/30/2020,The Segal Company,1091767000,925377000,166390000,84.76,132291000,125.78,Entry Age,NULL,895018000,196749000,81.98
+Judges' Retirement System I,7205,2020,06/30/2019,CalPERS Actuarial & Employer Services Division,3173229000,14081000,3159148000,0.44,31511000,10025.54,Entry Age,NULL,14081000,3159148000,0.44
+Judges' Retirement System II,7206,2020,06/30/2019,CalPERS Actuarial & Employer Services Division,1725877000,1715056000,10821000,99.37,343260000,3.15,Entry Age,NULL,1715056000,10821000,99.37
+Kaweah Delta Hospital District Employees' Retirement Plan,7149,2020,06/30/2020,Willis Towers Watson,291231595,0,291231595,,0,,Entry Age,NULL,250857634,40373961,86.14
+Kern County Employees' Retirement Association,7262,2020,06/30/2020,Segal Consulting,7005589000,4508548000,2497041000,64.36,607696000,410.9,Entry Age,NULL,4312314000,2693275000,61.56
+Legislators' Retirement System,7207,2020,06/30/2019,CalPERS Actuarial & Employer Services Division,99130000,115796000,-16666000,116.81,272000,-6127.21,Entry Age,NULL,115796000,-16666000,116.81
+Long Beach Public Transportation Company Retirement Plan - Contract Employees,7198,2020,07/01/2020,Venuti & Associates,95973713,63776866,32196847,66.45,31946000,100.79,Frozen Entry Age,NULL,63776866,32196847,66.45
+Long Beach Public Transportation Company Retirement Plan - Salaried Employees,7199,2020,07/01/2020,Venuti & Associates,33942216,31438641,2503575,92.62,4589000,,Frozen Entry Age,NULL,31438641,2503575,92.62
+Los Angeles City Employees' Retirement System,7237,2020,06/30/2020,The Segal Company,22527195295,15630102547,6897092748,69.38,2445016587,282.09,Entry Age,NULL,14932404300,7594790995,66.29
+Los Angeles County Employees' Retirement Association,7263,2020,06/30/2019,Milliman,74635840000,57617288000,17018552000,77.2,8370050420,203.33,Entry Age,NULL,61355768857,13280071143,82.21
+Los Angeles County Transportation Authority AFSCME Employees' Retirement Income Plan,9235,2020,12/31/2019,Willis Towers Watson,57507718,46606501,10901217,81.04,1148513,949.16,Projected Unit Credit,NULL,49190696,8317022,85.54
+Los Angeles County Transportation Authority Maintenance Employees' Retirement System,7161,2020,01/01/2020,Rael & Letson,690020334,483172394,206847940,70.02,178697000,115.75,Entry Age,NULL,516757172,173263162,74.89
+Los Angeles County Transportation Authority Non-Contract Employees' Retirement System,7162,2020,12/31/2019,Willis Towers Watson,141682337,116005074,25677263,81.88,2846262,902.14,Projected Unit Credit,NULL,123345483,18336854,87.06
+Los Angeles County Transportation Authority SMART - TD Retirement,7163,2020,12/31/2019,Willis Towers Watson,780015296,616515993,163499303,79.04,215390143,75.91,Projected Unit Credit,NULL,662922882,117092414,84.99
+Los Angeles County Transportation Authority Transportation Communication - Union Employees' Retirement System,7160,2020,12/31/2019,Willis Towers Watson,164136842,128997540,35139302,78.59,49491287,71,Projected Unit Credit,NULL,136393133,27743709,83.1
+Marin County Employees' Retirement Association,7264,2020,06/30/2019,Cheiron,2847347653,0,2847347653,,260909545,,Entry Age,NULL,2480907784,366439869,87.13
+Mendocino County Employees' Retirement Association,7265,2020,06/30/2020,Segal Consulting,795398180,551332136,244066044,69.32,75316869,324.05,Entry Age,NULL,538989213,256408967,67.76
+Merced County Employees' Retirement Association,7266,2020,06/30/2018,Cheiron Inc,1301918573,826653970,475264603,63.5,135618404,350.44,Other,Entry Age Normal,826653970,475264603,63.5
+Modesto Irrigation District Basic Retirement Plan,7186,2020,01/01/2020,Transamerica Retirement Solutions,417290992,365730253,51560739,87.64,42193024,,Entry Age,Other,365730253,51560739,87.64
+Orange County Employees' Retirement System,7267,2020,12/31/2018,Segal Consulting,20703349000,14994420000,5708929000,72.43,1875370000,304.42,Entry Age,NULL,14349705000,6353644000,69.31
+Public Agency Retirement System Defined Benefit Plans,7215,2020,06/30/2020,Milliman Inc.,14234951,7736360,6498591,54.35,246232118,,Other,Discount Rate,,,
+Public Employees' Retirement Fund (PERF) A,12892,2020,06/30/2019,CalPERS Actuarial & Employer Services Division,531166000000,372778000000,158388000000,70.18,56391000000,,Entry Age,NULL,372778000000,158388000000,70.18
+Public Employees' Retirement Fund (PERF) B,12893,2020,06/30/2019,CalPERS Actuarial & Employer Services Division,,,,,0,,Entry Age,NULL,,,
+Public Employees' Retirement Fund (PERF) C,12894,2020,06/30/2019,CalPERS Actuarial & Employer Services Division,,,,,0,,Entry Age,NULL,,,
+Sacramento County Employees' Retirement System,7268,2020,06/30/2020,Segal Consulting,12693655000,10229760000,2463895000,80.59,1059983000,232.45,Entry Age,NULL,9979379000,2714276000,78.62
+Sacramento Regional Transit District ATU Employees' Retirement Plan,12847,2020,07/01/2019,Cheiron Inc,182972608,139367494,43605114,76.17,32601349,,Entry Age,NULL,138049710,44922898,75.45
+Sacramento Regional Transit District IBEW Employees' Retirement Plan,12848,2020,07/01/2019,Cheiron Inc,80791045,61004069,19786976,75.51,13735701,144.06,Entry Age,NULL,60149108,20641937,74.45
+Sacramento Regional Transit District Salaried Employees' Retirement Plan,7165,2020,07/01/2019,Cheiron Inc,154047881,99880223,54167658,64.84,25654432,211.16,Entry Age,NULL,99186092,54861789,64.39
+San Bernardino County Employees' Retirement Association,7269,2020,06/30/2020,Segal Consulting Co,14298196000,11133173000,3165023000,77.86,1587325000,199.39,Entry Age,NULL,10287334000,4010862000,71.95
+San Diego City Employees' Retirement System,7246,2020,06/30/2020,Cheiron,12081170225,8558922812,3522247413,70.85,571843049,615.95,Entry Age,NULL,8317374325,3763795900,68.85
+San Diego County Employees' Retirement Association,7270,2020,06/30/2020,Segal Consulting,17741219000,13715875000,4025344000,77.31,1433931493,281.27,Entry Age,NULL,12909003000,4832216000,72.76
+San Diego Transit Corporation Employees' Retirement Plan,7200,2020,06/30/2020,Cheiron Inc.,315167505,177440974,137726531,56.3,25851835,532.75,Entry Age,NULL,165921800,149245705,52.65
+San Francisco City and County Employees' Retirement System,7247,2020,07/01/2019,Cheiron,28798000000,25247000000,3551000000,87.67,3566991411,,Entry Age,NULL,26078000000,2720000000,90.55
+San Joaquin County Employees' Retirement Association,7271,2020,01/01/2019,Cheiron,4721287476,3044897694,1676389782,64.49,454177002,369.1,Entry Age,NULL,2841042076,1880245400,60.18
+San Joaquin Regional Transit District Contract Employees' Retirement Plan,7166,2020,07/01/2018,Bartel Associates LLC,73069000,40694000,32375000,55.69,9157000,353.55,Entry Age,NULL,40633000,32436000,55.61
+San Luis Obispo County Pension Trust,7272,2020,01/01/2019,Gabriel Roeder Smith & Company,2029929000,1362561000,667368000,67.12,200924549,332.15,Entry Age,NULL,1271620084,758308916,62.64
+San Mateo County Employees' Retirement Association,7273,2020,06/30/2020,Milliman,5786054000,4998316000,787738000,86.39,593295084,132.77,Entry Age,NULL,4780502000,1005552000,82.62
+Santa Barbara County Employees' Retirement System,7274,2020,06/30/2020,Cheiron,4080638000,3198134000,882504000,78.37,366344225,240.89,Entry Age,NULL,3198134,882504,78.37
+Santa Clara Valley Transportation Authority Amalgamated Transit Union Pension Plan,7167,2020,01/01/2020,Cheiron Inc.,777544046,588449396,189094650,75.68,134900811,140.17,Entry Age,n/a,604689941,172854105,77.77
+Self-Insured Schools of California Defined Benefit Plan,7183,2020,12/31/2019,Demsey Filliger & Assoc,52663570,54406776,-1743206,103.31,104235082,-1.67,Projected Unit Credit,NULL,57334797,-4671227,108.87
+Sonoma County Employees' Retirement Association,7275,2020,12/31/2019,Segal Consulting,3143323000,2811292000,332031000,89.44,378158735,87.8,Entry Age,NULL,2916890000,226433000,92.8
+Stanislaus County Employees' Retirement Association,7276,2020,06/30/2018,Cheiron Inc.,2749068000,2100278000,648790000,76.4,300352383,216.01,Entry Age,NULL,2208241432,540826568,80.33
+Sunline Transit Retirement Income Plan - Bargaining Unit Personnel,7182,2020,01/01/2019,Nyhart,27572135,26620060,952075,96.55,11077510,8.59,Entry Age,NULL,25230056,2342079,91.51
+Sunline Transit Retirement Income Plan - Non-Bargaining Unit Personnel,7400,2020,01/01/2019,Nyhart,27345479,27066336,279143,98.98,5263497,5.3,Entry Age,NULL,25654063,1691416,93.81
+Tulare County Employees' Retirement Association,7277,2020,06/30/2018,Cheiron,1656357000,1523030000,133327000,91.95,262713817,50.75,Entry Age,NULL,1480284000,176073000,89.37
+Turlock Irrigation District Pension Plan,7187,2020,01/01/2020,Nyhart,388921522,333593926,55327596,85.77,43755672,126.45,Entry Age,N/A,340914781,48006741,87.66
+University of California Retirement Plan,7211,2020,07/01/2020,Segal Consulting,93088224000,73318652000,19769572000,78.76,13336334095,148.24,Entry Age,NULL,70916238000,22171986000,76.18
+Ventura County Employees' Retirement Association,7278,2020,06/30/2020,Segal Consultants,6747772000,6044036000,703736000,89.57,803381543,87.6,Entry Age,NULL,5914852000,832920000,87.66
+West Contra Costa Healthcare District Successor Retirement Plan,8275,2020,06/30/2020,Findley,15161340,4369495,10791845,28.82,0,,Entry Age,NULL,4245167,10916173,28
+AC Transit Employees' Retirement Plan,7159,2019,01/01/2019,Cheiron,983881573,686870000,297011573,69.81,194000000,170.7,Entry Age,NULL,641535000,342346573,65.2
+Alameda County Employees' Retirement Association,7258,2019,12/31/2018,Segal Consulting,9376397000,7239327000,2137070000,77.21,1093735000,195.39,Entry Age,NULL,6734526000,2641871000,71.82
+Antelope Valley Hospital Medical Center Retirement Plan,7148,2019,07/01/2018,Milliman,331054808,203990609,127064199,61.62,150221871,84.58,Entry Age,NULL,202157849,128896959,61.06
+California State Teachers' Retirement System,7209,2019,06/30/2018,Milliman,297603000000,190451000000,107152000000,63.99,32613000000,328.56,Entry Age,NULL,195611000000,101992000000,65.73
+City of Alameda Police and Fire Pension 1079 and 1082,7218,2019,06/30/2019,Nyhart Actuary & Employee Benefits,6197709,,,,0,,Other,Mortality-Mortality Improvement Scale MP 2014 with 15 years convergence to 2022,,,
+City of Albany Police and Fire Relief Pension Fund,7219,2019,06/03/2019,Van Iwaarden Associates,13382986,5383567,7999419,40.23,0,,Entry Age,NULL,4476599,8906387,33.45
+City of Berkeley Safety Members' Pension Fund,7220,2019,06/30/2019,Bartel Associates LLC,1862714,0,1862714,,0,,Other,Average remaining lifetime of participants,0,,
+City of Concord Retirement System,7230,2019,06/30/2018,Bartel Associates LLC,58431000,32829000,25602000,56.18,0,,Entry Age,NULL,32829000,25602000,56.18
+City of Delano Employee Pension Plan,7235,2019,07/01/2019,Nyhart,48373918,34040004,14333914,70.37,11263587,127.26,Entry Age,NULL,33947945,14425973,70.18
+City of El Cerrito Employees' Pension Trust Fund,7225,2019,06/30/2019,NULL,,,,,85774,,Projected Unit Credit,NULL,,,
+City of Emeryville Pension Plan,7221,2019,06/30/2019,Bartel Asso. LLC,100090,0,100090,,0,,Projected Unit Credit,NULL,0,100090,
+City of Eureka Fire and Police Retirement System,7233,2019,06/30/2019,Govinvest Inc.,2260608,,,,0,,Other,Straight Line,,,
+City of Fresno Employees' Retirement System,7232,2019,06/30/2019,The Segal Company,1106660000,1238650718,-131990718,111.93,145457812,-90.74,Entry Age,NULL,1243689000,-137029000,112.38
+City of Fresno Fire and Police Retirement System,7231,2019,06/30/2019,The Segal Company,1277749000,1495023241,-217274241,117,115073000,-188.81,Entry Age,NULL,1501112000,-223363000,117.48
+City of Irvine Safety Defined Benefit Pension Plan,7243,2019,01/01/2019,Findley,20294619,19590354,704265,96.53,384931,182.96,Entry Age,NULL,19913617,381002,98.12
+City of Los Angeles Fire and Police Pension System,7236,2019,06/30/2019,Segal Consulting,22474125408,21037711090,1436414318,93.61,1583807653,90.69,Entry Age,NULL,21262200363,1211925045,94.61
+City of Los Angeles Water and Power Employees' Retirement Plan,7238,2019,07/01/2019,The Segal Company,13811956483,12739144966,1072811517,92.23,1028212002,104.34,Entry Age,N/A,12987087001,824869482,94.03
+City of Manhattan Beach Single Highest Year Retirement Plan,7240,2019,06/30/2019,Total Compensation Systems,292056,118394,173662,40.54,0,,Projected Unit Credit,NULL,118394,173662,40.54
+City of Manhattan Beach Supplemental Retirement Plan,7241,2019,06/30/2019,Total Compensation Systems,111762,32344,79418,28.94,0,,Projected Unit Credit,NULL,32344,79418,28.94
+City of Oakland Fire and Police Retirement System,7222,2019,07/01/2018,Cheiron,647251000,347467000,299784000,53.68,0,,Entry Age,NULL,0,647251,
+City of Pasadena Fire and Police Retirement System,7239,2019,06/30/2019,Bartel Associates LLC,144367000,109827000,34540000,76.07,0,269.35,Entry Age,NULL,111774000,32593000,77.42
+City of Piedmont Police and Fire Pension Plan,7224,2019,06/30/2019,Bartel Associates LLC,1732435,12950030,-11217595,747.5,0,,Aggregate,NULL,12950030,-11217595,747.5
+City of Richmond Garfield Pension Plan,7229,2019,06/30/2019,Van Iwaarden Associates,334779,339222,-4443,101.33,0,,Entry Age,NULL,339222,-4443,101.33
+City of Richmond General Pension Plan,7227,2019,06/30/2019,Van Iwaarden Associates,2295843,1067813,1228030,46.51,0,,Entry Age,NULL,1067813,1228030,46.51
+City of Richmond Police and Firemen's Pension Plan,7228,2019,06/30/2019,Van Iwaarden Associates,14363686,11333502,3030184,78.9,0,,Entry Age,NULL,11333502,3030184,78.9
+City of Sacramento City Employees' Retirement System,7245,2019,06/30/2019,Bartel Associates LLC,313073000,277234000,35839000,88.55,678000,5285.99,Entry Age,NULL,281568000,31505000,89.94
+City of San Clemente Restated Employees' Retirement Plan,7244,2019,06/30/2017,Bartel Associates LLC,35638000,21064000,14574000,59.11,529831,2750.69,Entry Age,NULL,21064000,14574000,59.11
+City of San Jose Federated City Employees' Retirement System,7249,2019,06/30/2018,Cheiron,4100821000,2179488000,1921333000,53.15,298824000,642.96,Entry Age,NULL,2069332000,2031489000,50.46
+City of San Jose Police and Fire Retirement Plan,7250,2019,06/30/2018,Cheiron,4696428000,3596590000,1099838000,76.58,218619000,503.08,Entry Age,NULL,3496190000,1200238000,74.44
+City of Santa Barbara Police and Fire Pension Fund,7248,2019,06/30/2018,Bartel Associates,205481,0,205481,,0,,Other,Actuarial cost methods are only applicable when you have active employees.,0,,
+Contra Costa County Employees' Retirement Association,7259,2019,12/31/2017,Segal Consulting,9239246920,8179891191,1059355729,88.53,860624613,,Entry Age,NULL,8390581049,848665871,90.81
+Contra Costa Water District Retirement Plan,7172,2019,06/30/2018,Van Iwaarden Associates,214362261,187541811,26820450,87.49,31622148,84.82,Entry Age,NULL,189143172,25219089,88.24
+Desert Hospital Retirement Protection Plan,7398,2019,06/30/2018,Nyhart,8309530,4913907,3395623,59.14,0,,Entry Age,NULL,,,
+East Bay Municipal Utility District Employees' Retirement System,7168,2019,06/30/2018,Segal Consulting,2220977433,1678417000,542560433,75.57,204331000,265.53,Entry Age,NULL,1716478000,504499433,77.28
+Fresno County Employees' Retirement Association,7260,2019,06/30/2017,Segal Consulting,5643444000,4529508000,1113936000,80.26,413760000,269.22,Entry Age,NULL,4407222000,1236222000,78.09
+Golden Gate Transit District Amalgamated Retirement Plan,7144,2019,01/01/2017,Cheiron,182788380,109986152,72802228,60.17,23393000,318.26,Entry Age,NULL,106573850,76214530,58.3
+Greater Palm Springs Convention and Visitor's Bureau Defined Benefit Pension Plan,13131,2019,06/30/2019,Cheiron Inc.,7020764,5748911,1271853,81.88,2672577,47.59,Entry Age,Entry Age,5730681,1290083,81.62
+Imperial County Employees' Retirement System,7261,2019,06/30/2019,The Segal Company,998690000,869620000,129070000,87.08,128681000,100.3,Entry Age,NULL,876015000,122675000,87.72
+Judges' Retirement System I,7205,2019,06/30/2018,CalPERS Actuarial & Employer Services Division,3320530000,44492000,3276038000,1.34,35335000,9271.37,Entry Age,NULL,44492000,3276038000,1.34
+Judges' Retirement System II,7206,2019,06/30/2018,CalPERS Actuarial & Employer Services Division,1554348000,1531543000,22805000,98.53,310294000,7.35,Entry Age,NULL,1531543000,22805000,98.53
+Kaweah Delta Hospital District Employees' Retirement Plan,7149,2019,06/30/2019,Willis Towers Watson,279067404,0,279067404,,0,,Entry Age,NULL,247822420,31244984,88.8
+Kern County Employees' Retirement Association,7262,2019,06/30/2019,Segal Consulting,6398814000,4163476000,2235338000,65.07,584181000,382.64,Entry Age,NULL,4198862000,2199952000,65.62
+Legislators' Retirement System,7207,2019,06/30/2018,CalPERS Actuarial & Employer Services Division,98927000,115484000,-16557000,116.74,1098000,-1507.92,Entry Age,NULL,115484000,-16557000,116.74
+Long Beach Public Transportation Company Retirement Plan - Contract Employees,7198,2019,07/01/2019,Venuti & Associates,91295118,60679049,30616069,66.46,0,99.97,Entry Age,NULL,60679049,30616069,66.46
+Long Beach Public Transportation Company Retirement Plan - Salaried Employees,7199,2019,07/01/2019,Venuti & Associates,33336433,30938951,2397482,92.81,4783000,50.13,Entry Age,NULL,30938951,2397482,92.81
+Los Angeles City Employees' Retirement System,7237,2019,06/30/2019,Segal Consulting,20793421143,14818564427,5974856716,71.27,2225412831,268.48,Entry Age,NULL,14815592841,5977828302,71.25
+Los Angeles County Employees' Retirement Association,7263,2019,06/30/2018,Milliman,68527354000,55233108000,13294246000,80.6,7957981294,167.06,Entry Age,NULL,59367904030,9159449970,86.63
+Los Angeles County Transportation Authority AFSCME Employees' Retirement Income Plan,9235,2019,12/31/2018,Willis Towers Watson,57437442,47749144,9688298,83.13,1398770,692.63,Projected Unit Credit,NULL,44351259,13086183,77.22
+Los Angeles County Transportation Authority Maintenance Employees' Retirement System,7161,2019,01/01/2019,Rael & Letson,645715479,436273626,209441853,67.56,167130000,125.32,Entry Age,NULL,416309756,229405723,64.47
+Los Angeles County Transportation Authority Non-Contract Employees' Retirement System,7162,2019,12/31/2018,Willis Towers Watson,142483111,116221989,26261122,81.57,3091883,849.36,Projected Unit Credit,NULL,109482767,33000344,76.84
+Los Angeles County Transportation Authority SMART - TD Retirement,7163,2019,12/31/2018,Willis Towers Watson,750420730,580957475,169463255,77.42,208173477,81.4,Projected Unit Credit,NULL,580957475,169463255,77.42
+Los Angeles County Transportation Authority Transportation Communication - Union Employees' Retirement System,7160,2019,12/31/2018,Willis Towers Watson,157283695,117196978,40086717,74.51,47235246,84.87,Projected Unit Credit,NULL,117196978,40086717,74.51
+Marin County Employees' Retirement Association,7264,2019,06/30/2018,Cheiron,2722628694,0,2722628694,,257119125,,Entry Age,NULL,2298887919,423740775,84.44
+Mendocino County Employees' Retirement Association,7265,2019,06/30/2019,Segal Consulting,747065374,527367477,219697897,70.59,71124175,308.89,Entry Age,NULL,532727019,214338355,71.31
+Merced County Employees' Retirement Association,7266,2019,06/30/2017,Cheiron,1259702000,753769328,505932672,59.84,131365777,385.13,Other,Entry Age Normal,753769328,505932672,59.84
+Modesto Irrigation District Basic Retirement Plan,7186,2019,01/01/2019,Transamerica Retirement Solutions,372412065,256128381,116283684,68.78,41165803,282.48,Entry Age,NULL,256128381,116283684,68.78
+Orange County Employees' Retirement System,7267,2019,12/31/2017,Segal Consulting,19635427000,14197125000,5438302000,72.3,1811877000,300.15,Entry Age,NULL,14652521000,4982906000,74.62
+Public Agency Retirement System Defined Benefit Plans,7215,2019,06/30/2018,Milliman Inc.,14545675,8255892,6289783,56.76,255833394,2.46,Other,Discount Rate,,,
+Public Employees' Retirement Fund (PERF) A,12892,2019,06/30/2018,CalPERS Actuarial & Employer Services Division,504996000000,354616000000,150380000000,70.22,53903000000,1149.15,Entry Age,NULL,354616000000,150380000000,70.22
+Public Employees' Retirement Fund (PERF) B,12893,2019,06/30/2018,NULL,,,,,0,,Entry Age,NULL,,,
+Public Employees' Retirement Fund (PERF) C,12894,2019,06/30/2018,NULL,,,,,0,,Entry Age,NULL,,,
+Sacramento County Employees' Retirement System,7268,2019,06/30/2019,Segal Consulting,11895520000,9703313000,2192207000,81.57,1017886000,215.37,Entry Age,NULL,9821694000,2073826000,82.57
+Sacramento Regional Transit District ATU Employees' Retirement Plan,12847,2019,07/01/2018,Cheiron Inc,177191048,135405469,41785579,76.42,31595561,132.25,Entry Age,NULL,133178109,44012939,75.16
+Sacramento Regional Transit District IBEW Employees' Retirement Plan,12848,2019,07/01/2018,Cheiron Inc,76501290,58553808,17947482,76.54,13523404,132.71,Entry Age,NULL,57166577,19334713,74.73
+Sacramento Regional Transit District Salaried Employees' Retirement Plan,7165,2019,07/01/2018,Cheiron Inc,145254307,94088321,51165986,64.77,24474636,209.06,Entry Age,NULL,93130089,52124218,64.12
+San Bernardino County Employees' Retirement Association,7269,2019,06/30/2019,Segal Consulting Co,13304683000,10642401000,2662282000,79.99,1542495237,172.6,Entry Age,NULL,10588407000,2716276000,79.58
+San Diego City Employees' Retirement System,7246,2019,06/30/2019,Cheiron,11421647093,8248168328,3173478765,72.22,552719558,,Entry Age,NULL,8447780696,2973866397,73.96
+San Diego County Employees' Retirement Association,7270,2019,06/30/2019,Segal Consulting,16955112000,12932244000,4022868000,76.27,1359311225,295.95,Entry Age,n/a,12862922000,4092190000,75.86
+San Diego Transit Corporation Employees' Retirement Plan,7200,2019,06/30/2019,Cheiron Inc.,314919978,175814792,139105186,55.83,27154461,512.27,Entry Age,NULL,170139617,144780361,54.03
+San Francisco City and County Employees' Retirement System,7247,2019,07/01/2019,Cheiron,28798000000,25247000000,3551000000,87.67,3378714262,105.1,Entry Age,NULL,26078000000,2720000000,90.55
+San Joaquin County Employees' Retirement Association,7271,2019,01/01/2018,CHEIRON,4496975597,2913161286,1583814311,64.78,437676798,361.56,Entry Age,NULL,2879288631,1617686966,64.03
+San Joaquin Regional Transit District Contract Employees' Retirement Plan,7166,2019,07/01/2018,Bartel Associates LLC,73069000,40694000,32375000,55.69,9539000,339.4,Entry Age,NULL,40633000,32436000,55.61
+San Luis Obispo County Pension Trust,7272,2019,01/01/2018,Gabrield Roeder Smith & Company,1945681000,1328750000,616931000,68.29,199283713,309.57,Entry Age,NULL,1340471000,605210000,68.89
+San Mateo County Employees' Retirement Association,7273,2019,06/30/2019,Milliman,5459978000,4685502000,774476000,85.82,554734196,139.61,Entry Age,NULL,4723110000,736868000,86.5
+Santa Barbara County Employees' Retirement System,7274,2019,06/30/2019,Cheiron,3888127000,3002019000,886108000,77.21,359819461,246.26,Entry Age,NULL,3002019000,886108000,77.21
+Santa Clara Valley Transportation Authority Amalgamated Transit Union Pension Plan,7167,2019,01/01/2019,Cheiron Inc.,751566289,564331981,187234308,75.09,135929919,137.74,Entry Age,n/a,527668913,223897376,70.21
+Self-Insured Schools of California Defined Benefit Plan,7183,2019,12/31/2018,Demsey Filliger & Assoc,50489966,53815937,-3325971,106.59,101739973,-3.27,Projected Unit Credit,NULL,46304465,4185501,91.71
+Sonoma County Employees' Retirement Association,7275,2019,12/31/2018,Segal Consulting,3072077000,2667345000,404732000,86.83,378159621,107.03,Entry Age,NULL,2577809000,494268000,83.91
+Stanislaus County Employees' Retirement Association,7276,2019,06/30/2017,Cheiron Inc.,2648162000,1968231000,679931000,74.32,281979654,241.13,Entry Age,NULL,1973000000,675162000,74.5
+Sunline Transit Retirement Income Plan - Bargaining Unit Personnel,7182,2019,01/01/2018,Nyhart,25885338,26155708,-270370,101.04,10495187,-2.58,Entry Age,NULL,26155708,-270370,101.04
+Sunline Transit Retirement Income Plan - Non-Bargaining Unit Personnel,7400,2019,01/01/2018,Nyhart,25569403,26786215,-1216812,104.76,4842573,-25.13,Entry Age,NULL,26786215,-1216812,104.76
+Tulare County Employees' Retirement Association,7277,2019,06/30/2017,Cheiron,1573406000,1461755000,111651000,92.9,254940772,43.79,Entry Age,NULL,1395122000,178284000,88.67
+Turlock Irrigation District Pension Plan,7187,2019,01/01/2019,Nyhart,354421004,307854922,46566082,86.86,39391971,118.21,Entry Age,N/A,290778688,63642316,82.04
+University of California Retirement Plan,7211,2019,06/30/2019,Segal Consulting,87782652000,70170196000,17612456000,79.94,12949903692,,Entry Age,NULL,70278964000,17503688000,80.06
+Ventura County Employees' Retirement Association,7278,2019,06/30/2019,Segal Consulting,6439388000,5664526000,774862000,87.97,785402037,98.66,Entry Age,NULL,5735360000,704028000,89.07
+West Contra Costa Healthcare District Successor Retirement Plan,8275,2019,06/30/2019,Findley,13694352,3148197,10546155,22.99,0,,Entry Age,NULL,3072631,10621721,22.44
+AC Transit Employees' Retirement Plan,7159,2018,01/01/2017,Cheiron,902989387,614229823,288759564,68,167786000,,Entry Age,NULL,,902989387,
+Alameda County Employees' Retirement Association,7258,2018,12/31/2017,The Segal Company,8987061000,6830379000,2156682000,76,1055661000,204.3,Entry Age,NULL,6980597000,2006464000,78
+Antelope Valley Hospital Medical Center Retirement Plan,7148,2018,07/01/2017,Milliman,310911089,183653871,127257218,59.1,142333031,89.4,Entry Age,NULL,178014317,132896772,57
+California State Teachers' Retirement System,7209,2018,06/30/2017,Milliman,286950000000,179689000000,107261000000,62.6,31961000000,335.6,Entry Age,NULL,183482000000,103468000000,64
+City of Alameda Police and Fire Pension 1079 and 1082,7218,2018,06/30/2018,Nyhart Actuary & Employee Benefits,8000385,0,8000385,,0,,Other,Mortality- Mortality Improvement Scale MP 2014 with 15 yrs convergence to 2022,0,8000385,
+City of Albany Police and Fire Relief Pension Fund,7219,2018,06/30/2017,Conduent,13058273,6666348,6391925,51.1,0,,Entry Age,NULL,5724805,7333468,44
+City of Berkeley Safety Members' Pension Fund,7220,2018,06/30/2018,Bartel Associates LLC,2485191,96934,2388257,3.9,0,,Other,Average remaining lifetime of participants,96934,2388257,4
+City of Concord Retirement System,7230,2018,06/30/2016,Bartel Assoicates LLC,61693000,31399000,30294000,50.9,0,,Entry Age,NULL,31399000,30294000,51
+City of Delano Employee Pension Plan,7235,2018,07/01/2017,Nyhart,47687971,31977142,15710829,67.1,10751866,146.1,Entry Age,NULL,30923174,16764797,65
+City of El Cerrito Employees' Pension Trust Fund,7225,2018,06/30/2017,Bartel & Associates,,,,,115129,,Projected Unit Credit,NULL,0,,
+City of Emeryville Pension Plan,7221,2018,06/30/2014,Bartel Asso. LLC,185940,,185940,,0,,Projected Unit Credit,NULL,263008,-77068,141
+City of Eureka Fire and Police Retirement System,7233,2018,06/30/2018,Govinvest Inc.,,,,,0,,Other,Straightline,,,
+City of Fresno Employees' Retirement System,7232,2018,06/30/2018,The Segal Company,1047692000,1202691315,-154999315,114.8,0,,Entry Age,NULL,1222095000,-174403000,117
+City of Fresno Fire and Police Retirement System,7231,2018,06/30/2018,The Segal Company,1194731000,1436725409,-241994409,120.3,110972000,-218.1,Entry Age,NULL,1460044000,-265313000,122
+City of Irvine Safety Defined Benefit Pension Plan,7243,2018,01/01/2017,Bryan Pendleton Swats & McAllister LLC,20303670,19209782,1093888,94.6,373044,292.7,Entry Age,NULL,19205887,1097783,95
+City of Los Angeles Fire and Police Pension System,7236,2018,06/30/2018,Segal Consulting,25902373005,24377639469,1524733536,94.1,1546042972,98.6,Entry Age,NULL,22360370203,3542002802,86
+City of Los Angeles Water and Power Employees' Retirement Plan,7238,2018,07/01/2018,The Segal Co,13187542730,12009999030,1177543700,91.1,953635670,123.5,Entry Age,N/A,12277085263,910457467,93
+City of Manhattan Beach Single Highest Year Retirement Plan,7240,2018,06/30/2018,Block Consulting Acturaries,284083,92172,191911,32.5,0,,Projected Unit Credit,Projected Unit Method,92172,191911,32
+City of Manhattan Beach Supplemental Retirement Plan,7241,2018,06/30/2018,Block Consulting Actuaries,109239,25672,83567,23.5,0,,Projected Unit Credit,NULL,25672,83567,24
+City of Oakland Fire and Police Retirement System,7222,2018,07/01/2017,Cheiron,673441,333373,340068,49.5,0,,Entry Age,NULL,0,673441,
+City of Pasadena Fire and Police Retirement System,7239,2018,06/30/2018,Bartel Associates LLC,147816000,118034000,29782000,79.85,0,,Entry Age,NULL,118932000,28884000,80.46
+City of Piedmont Police and Fire Pension Plan,7224,2018,06/30/2018,Bartel Associates LLC,1851716,12352060,-10500344,667.1,0,,Aggregate,NULL,12352060,-10500344,667
+City of Richmond Garfield Pension Plan,7229,2018,06/30/2018,Van Iwaarden Associates,616653,307761,308892,49.9,0,,Entry Age,NULL,307761,308892,50
+City of Richmond General Pension Plan,7227,2018,06/30/2018,Van Iwaarden Associates,2466948,741733,1725215,30.1,0,,Entry Age,NULL,741733,1725215,30
+City of Richmond Police and Firemen's Pension Plan,7228,2018,06/30/2018,Van Iwaarden Associates,17647021,11587579,6059442,65.7,0,,Entry Age,NULL,11587579,6059442,66
+City of Sacramento City Employees' Retirement System,7245,2018,06/30/2018,Bartel Associates LLC,324669000,281126000,43543000,86.6,921000,4727.8,Entry Age,NULL,286609000,38060000,88
+City of San Clemente Restated Employees' Retirement Plan,7244,2018,06/30/2017,Bartel Associates LLC,35500000,20605000,14895000,58,519787,2865.6,Entry Age,NULL,20605000,14895000,58
+City of San Jose Federated City Employees' Retirement System,7249,2018,06/30/2017,Cheiron,3923966000,2101435000,1822531000,53.6,290504000,627.4,Entry Age,NULL,1972791000,1951175000,50
+City of San Jose Police and Fire Retirement Plan,7250,2018,06/30/2017,Cheiron,4464402000,3439922000,1024480000,77.1,203164000,504.3,Entry Age,NULL,3293257000,1171145000,74
+City of Santa Barbara Police and Fire Pension Fund,7248,2018,06/30/2017,Bartel Associates,248677,0,248677,,0,,Other,Actuarial cost methods are only applicable when you have active employees.,0,248677,
+Contra Costa County Employees' Retirement Association,7259,2018,12/31/2016,Segal Consulting,8794434139,7606997530,1187436609,86.5,784412261,151.4,Entry Age,NULL,7438519504,1355914635,85
+Contra Costa Water District Retirement Plan,7172,2018,06/30/2017,Van Iwaarden Associates,203469801,176126394,27343407,86.6,29553189,92.5,Entry Age,NULL,177228515,26241286,87
+Desert Hospital Retirement Protection Plan,7398,2018,06/30/2017,Nyhart,8467627,5189834,3277793,61.3,0,,Entry Age,NULL,5189834,3277793,61
+East Bay Municipal Utility District Employees' Retirement System,7168,2018,06/30/2017,Segal Consulting,2068014945,1549213319,518801626,74.9,194498000,266.7,Entry Age,NULL,1580556000,487458945,76
+Fresno County Employees' Retirement Association,7260,2018,06/30/2016,Segal Consulting,5472149000,4278001000,1194148000,78.2,402535000,296.7,Entry Age,NULL,4009337000,1462812000,73
+Golden Gate Transit District Amalgamated Retirement Plan,7144,2018,01/01/2017,Cheiron,182788380,109986152,72802228,60.2,22875000,,Entry Age,NULL,106573850,76214530,58
+Imperial County Employees' Retirement System,7261,2018,06/30/2018,The Segal Company,945385000,835211000,110174000,88.4,118800000,,Entry Age,NULL,831484000,113901000,88
+Judges' Retirement System I,7205,2018,06/30/2017,CalPERS Actuarial & Employer Services Division,3315731000,48275000,3267456000,1.5,38330000,8524.5,Entry Age,NULL,48275000,3267456000,1
+Judges' Retirement System II,7206,2018,06/30/2017,CalPERS Actuarial & Employer Services Division,1365862000,1356099000,9763000,99.3,291383000,3.4,Entry Age,NULL,1356099000,9763000,99
+Kaweah Delta Hospital District Employees' Retirement Plan,7149,2018,06/30/2018,Willis Towers Watshon,270818782,,270818782,,0,,Entry Age,NULL,229920601,40898181,85
+Kern County Employees' Retirement Association,7262,2018,06/30/2017,Segal Consulting,6191433000,3913073000,2278360000,63.2,572081000,398.3,Entry Age,NULL,3838666000,2352767000,62
+Legislators' Retirement System,7207,2018,06/30/2017,CalPERS Actuarial & Employer Services Division,100845000,116884000,-16039000,115.9,1209000,-1326.6,Entry Age,NULL,116884000,-16039000,116
+Long Beach Public Transportation Company Retirement Plan - Contract Employees,7198,2018,07/01/2018,Venuti & Associates,87017394,56021895,30995499,64.4,31094000,99.7,Entry Age,NULL,56021895,30995499,64
+Long Beach Public Transportation Company Retirement Plan - Salaried Employees,7199,2018,07/01/2018,Venuti & Associates,31215626,27866540,3349086,89.27,4859000,68.93,Entry Age,NULL,27866540,3349086,89.27
+Los Angeles City Employees' Retirement System,7237,2018,06/30/2018,Segal Consulting,19944579058,13982435465,5962143593,70.1,2177687102,273.8,Entry Age,NULL,14235230528,5709348530,71
+Los Angeles County Employees' Retirement Association,7263,2018,06/30/2017,Milliman,65310803000,52166307000,13144496000,79.9,7637031557,172.1,Entry Age,NULL,55818989432,9491813568,85
+Los Angeles County Transportation Authority AFSCME Employees' Retirement Income Plan,9235,2018,12/31/2017,Willis Towers Watson,58615544,49671393,8944151,84.7,1546568,578.3,Projected Unit Credit,NULL,50396861,8218683,86
+Los Angeles County Transportation Authority Maintenance Employees' Retirement System,7161,2018,01/01/2018,Rael & Letson,608028479,403513037,204515442,66.4,152397000,134.2,Entry Age,NULL,426522780,181505699,70
+Los Angeles County Transportation Authority Non-Contract Employees' Retirement System,7162,2018,12/31/2017,Willis Towers Watson,149247033,117961183,31285850,79,3171908,986.3,Projected Unit Credit,NULL,120903514,28343519,81
+Los Angeles County Transportation Authority SMART - TD Retirement,7163,2018,12/31/2017,Willis Towers Watson,731768530,560536737,171231793,76.6,198718395,86.2,Projected Unit Credit,NULL,585266912,146501618,80
+Los Angeles County Transportation Authority Transportation Communication - Union Employees' Retirement System,7160,2018,12/31/2017,Willis Towers Watson,149580883,109610057,39970826,73.3,42497100,94.1,Projected Unit Credit,NULL,113331428,36249455,76
+Marin County Employees' Retirement Association,7264,2018,06/30/2017,Cheiron,2575784163,,2575784163,,243957128,1055.8,Entry Age,NULL,2098697241,477086922,81
+Mendocino County Employees' Retirement Association,7265,2018,06/30/2018,Segal Consulting,717461993,504803711,212658282,70.4,67955820,312.9,Entry Age,NULL,520429961,197032032,73
+Merced County Employees' Retirement Association,7266,2018,06/30/2016,Cheiron,1201195000,670015824,531179176,55.8,126705902,419.2,Other,Entry Age Normal,670015824,531179176,56
+Modesto Irrigation District Basic Retirement Plan,7186,2018,01/01/2018,Transamerica Retirement Solutions,356430592,276164043,80266549,77.5,41274329,194.5,Projected Unit Credit,NULL,276164043,80266549,77
+Orange County Employees' Retirement System,7267,2018,12/31/2016,The Segal Group,17933461000,13102978000,4830483000,73.1,1759831000,274.5,Entry Age,NULL,12657330000,5276131000,71
+Public Agency Retirement System Defined Benefit Plans,7215,2018,06/30/2018,Milliman Inc.,14545675,8255892,6289783,56.76,290413601,2.17,Entry Age,NULL,0,14545675,
+Public Employees' Retirement Fund (PERF) A,12892,2018,06/30/2017,CalPERS Actuarial Office,465046000000,326182000000,138864000000,70.1,51991000000,267.1,Entry Age,NULL,326182000000,138864000000,70
+Public Employees' Retirement Fund (PERF) B,12893,2018,06/30/2017,NULL,,0,,,0,,Entry Age,NULL,,,
+Public Employees' Retirement Fund (PERF) C,12894,2018,06/30/2017,NULL,,,,,0,,Entry Age,NULL,,,
+Sacramento County Employees' Retirement System,7268,2018,06/30/2018,Segal Consulting,11213263000,9123004000,2090259000,81.4,985375000,212.1,Entry Age,NULL,9251937000,1961326000,83
+Sacramento Regional Transit District ATU Employees' Retirement Plan,12847,2018,07/01/2017,Cheiron Inc,177262864,132807915,44454949,74.9,30607324,145.2,Entry Age,NULL,130588455,46674409,74
+Sacramento Regional Transit District IBEW Employees' Retirement Plan,12848,2018,07/01/2017,Cheiron Inc,72891895,55523196,17368699,76.2,12364134,140.5,Entry Age,NULL,54085119,18806776,74
+Sacramento Regional Transit District Salaried Employees' Retirement Plan,7165,2018,07/01/2017,Cheiron Inc,132986393,85685275,47301118,64.4,23179191,204.1,Entry Age,NULL,84632310,48354083,64
+San Bernardino County Employees' Retirement Association,7269,2018,06/30/2018,Segal Consulting,12604942218,10020862873,2584079345,79.5,1477131264,174.9,Entry Age,NULL,10066990216,2537952002,80
+San Diego City Employees' Retirement System,7246,2018,06/30/2018,Cheiron,10287940204,7372408025,2915532179,71.7,514906095,,Entry Age,NULL,7580473981,2707466223,74
+San Diego County Employees' Retirement Association,7270,2018,06/30/2018,The Segal Company,15763237000,12365656000,3397581000,78.5,1290949926,263.2,Entry Age,NULL,12274450000,3488787000,78
+San Diego Transit Corporation Employees' Retirement Plan,7200,2018,06/30/2018,Cheiron Inc.,300300433,174904537,125395896,58.2,29686976,422.4,Entry Age,NULL,166239057,134061376,55
+San Francisco City and County Employees' Retirement System,7247,2018,07/01/2018,Cheiron,27335417,23866027,3469390,87.3,3235979830,0.1,Entry Age,NULL,24557966,2777451,90
+San Joaquin County Employees' Retirement Association,7271,2018,01/01/2017,CHEIRON,4235093946,2733851661,1501242285,64.6,428486772,350.4,Entry Age,NULL,2554802124,1680291822,60
+San Joaquin Regional Transit District Contract Employees' Retirement Plan,7166,2018,07/01/2017,Bartel Associates LLC,69850000,38429000,31421000,55,8122000,386.9,Entry Age,NULL,38144000,31706000,55
+San Luis Obispo County Pension Trust,7272,2018,01/01/2017,Gabriel Roeder Smith & Company,1827342000,1268405000,558937000,69.4,192735874,290,Entry Age,NULL,1181243000,646099000,65
+San Mateo County Employees' Retirement Association,7273,2018,06/30/2018,Milliman,4970535000,4351502000,619033000,87.6,541472683,114.3,Entry Age,NULL,4373962000,596573000,88
+Santa Barbara County Employees' Retirement System,7274,2018,06/30/2018,Cheiron,3702297000,2801307000,900990000,75.7,336413000,,Entry Age,NULL,2801307000,900990000,76
+Santa Clara Valley Transportation Authority Amalgamated Transit Union Pension Plan,7167,2018,01/01/2018,Cheiron Inc,742631681,549414479,193217202,74,142572313,138.7,Entry Age,NULL,564373813,178257868,76
+Self-Insured Schools of California Defined Benefit Plan,7183,2018,12/31/2017,Demsey Filliger & Associates,46726084,49627530,-2901446,106.2,98906351,-2.9,Projected Unit Credit,NULL,50778320,-4052236,109
+Sonoma County Employees' Retirement Association,7275,2018,12/31/2017,Segal Consulting,2916856000,2557299000,359557000,87.7,369750901,97.2,Entry Age,NULL,2748040000,168816000,94
+Stanislaus County Employees' Retirement Association,7276,2018,06/30/2016,Cheiron Inc.,2537067000,1845764000,691303000,72.8,268009042,257.9,Entry Age,NULL,1772913713,764153287,70
+Sunline Transit Retirement Income Plan - Bargaining Unit Personnel,7182,2018,01/01/2017,Nyhart,24327197,22834464,1492733,93.9,9937276,15,Entry Age,NULL,22508338,1818859,93
+Sunline Transit Retirement Income Plan - Non-Bargaining Unit Personnel,7400,2018,01/01/2017,Nyhart,24255666,23650761,604905,97.5,4939705,12.3,Entry Age,NULL,23303182,952484,96
+Tulare County Employees' Retirement Association,7277,2018,06/30/2016,CHEIRON,1431436000,1192642000,238794000,83.3,248513879,96.1,Entry Age,NULL,1055147000,376289000,74
+Turlock Irrigation District Pension Plan,7187,2018,01/01/2017,Nyhart,304169048,242590571,61578477,79.8,36365502,169.3,Entry Age,N/A,238696137,65472911,78
+University of California Retirement Plan,7211,2018,07/01/2018,Segal Consulting,76881052000,66577372000,10303680000,86.6,12412591670,83,Entry Age,NULL,66773590000,10107462000,87
+Ventura County Employees' Retirement Association,7278,2018,06/30/2018,Segal Consulting,6129758000,5382777000,746981000,87.8,760815215,98.2,Entry Age,NULL,5396463000,733295000,88
+West Contra Costa Healthcare District Successor Retirement Plan,8275,2018,06/30/2018,Findley,12206697,2879711,9326986,23.6,0,,Entry Age,NULL,2879711,9326986,24
+AC Transit Employees' Retirement Plan,7159,2017,01/01/2016,Cheiron,874284100,600832758,273451342,68.7,150234,182017,Entry Age,NULL,,874284100,
+Alameda County Employees' Retirement Association,7258,2017,12/31/2016,The Segal Company,8237715,6436138,1801577,78.1,1003651000,0.2,Entry Age,NULL,,8237715,
+Antelope Valley Hospital Medical Center Retirement Plan,7148,2017,07/01/2016,Milliman,297611638,168367287,129244351,56.6,150265338,,Entry Age,NULL,155350916,142260722,52
+California State Teachers' Retirement System,7209,2017,06/30/2016,Milliman,266704000000,169976000000,96728000000,63.7,30324000000,319,Entry Age,NULL,165118000000,101586000000,62
+City of Alameda Police and Fire Pension 1079 and 1082,7218,2017,06/30/2017,Nyhart Actuary & Employee Benefits,9207137,0,9207137,,0,514,Other,Mortality-  Mortality Improvement Scale MP 2014 with 15 yrs convergence to 2022,,9207137,
+City of Albany Police and Fire Relief Pension Fund,7219,2017,06/30/2017,Conduent,13058273,6666348,6391925,51.1,0,,Entry Age,NULL,,13058273,
+City of Berkeley Safety Members' Pension Fund,7220,2017,06/30/2017,Bartel Associates LLC,3235387,377244,2858143,11.7,0,,Other,Average remaining lifetime of participants,377244,2858143,12
+City of Concord Retirement System,7230,2017,06/30/2016,Bartel Associates LLC,61693000,31399000,30294000,50.9,0,,Entry Age,NULL,31399000,30294000,51
+City of Delano Employee Pension Plan,7235,2017,07/01/2016,Nyhart,45135501,28454739,16680762,63,10130191,164.7,Entry Age,NULL,26456314,18679187,59
+City of El Cerrito Employees' Pension Trust Fund,7225,2017,07/01/2013,Milliman Inc,,,,,123148,,Projected Unit Credit,NULL,0,,
+City of Emeryville Pension Plan,7221,2017,06/30/2014,Bartel Asso. LLC,185940,283451,-97511,152.4,0,,Projected Unit Credit,NULL,283451,-97511,152
+City of Eureka Fire and Police Retirement System,7233,2017,06/30/2017,Govinvest Inc.,3077801,0,3077801,,0,,Entry Age,Straight Line,,3077801,
+City of Fresno Employees' Retirement System,7232,2017,06/30/2017,The Segal Company,1013684000,1145061145,-131377145,113,119006918,-110.4,Entry Age,NULL,1158863000,-145179000,114
+City of Fresno Fire and Police Retirement System,7231,2017,06/30/2017,The Segal Company,1131348000,1354973827,-223625827,119.8,102679000,-217.8,Entry Age,NULL,1371613000,-240265000,121
+City of Irvine Safety Defined Benefit Pension Plan,7243,2017,01/01/2016,Bryan Pendleton Swats & McAllister LLC,20131860,19793197,338663,98.3,351166,92.7,Entry Age,NULL,19222937,908923,95
+City of Los Angeles Fire and Police Pension System,7236,2017,06/30/2017,Segal Consulting,24765887787,23034084478,1731803309,93,1475539138,117.4,Entry Age,NULL,20662406596,4103481191,83
+City of Los Angeles Water and Power Employees' Retirement Plan,7238,2017,07/01/2017,The Segal Co,12657101266,11133708386,1523392880,88,892332196,170.7,Entry Age,None,11313899335,1343201931,89
+City of Manhattan Beach Single Highest Year Retirement Plan,7240,2017,06/30/2017,Block Consulting Actuaries,336669,144361,192308,42.9,0,,Projected Unit Credit,NULL,,336669,
+City of Manhattan Beach Supplemental Retirement Plan,7241,2017,06/30/2017,Block Consulting Acturaries,117407,46866,70541,39.9,2,3527050,Projected Unit Credit,NULL,,117407,
+City of Oakland Fire and Police Retirement System,7222,2017,07/01/2016,Cheiron,672916,363550,309366,54,0,,Entry Age,NULL,,672916,
+City of Pasadena Fire and Police Retirement System,7239,2017,06/30/2017,Bartel Associates,148454000,122433000,26021000,82.5,13117723,198.4,Entry Age,NULL,125363000,23091000,84
+City of Piedmont Police and Fire Pension Plan,7224,2017,06/30/2016,Bartel Associates LLC,1986486,11933986,-9947500,600.8,0,,Aggregate,NULL,11941168,-9954682,601
+City of Pittsburg Miscellaneous Employees' Retirement System 1962,7226,2017,06/30/2014,Bartell Associates,15768,3502,12266,22.2,0,,Other,RP-2000 Projected with MP-2014,0,15768,
+City of Richmond Garfield Pension Plan,7229,2017,07/01/2017,Van Iwaarden Associates,691642,297317,394325,43,0,,Entry Age,NULL,297317,394325,43
+City of Richmond General Pension Plan,7227,2017,06/30/2017,Van Iwaarden Associates,2932456,449871,2482585,15.3,0,,Entry Age,NULL,449871,2482585,15
+City of Richmond Police and Firemen's Pension Plan,7228,2017,07/01/2017,Van Iwaarden Associates,19271776,12384594,6887182,64.3,0,,Entry Age,NULL,,19271776,
+City of Sacramento City Employees' Retirement System,7245,2017,06/30/2017,Bartel Associates LLC,336878000,283567000,53311000,84.2,1049000,5082.1,Entry Age,NULL,288509000,48369000,86
+City of San Clemente Restated Employees' Retirement Plan,7244,2017,06/30/2015,Bartel Associates LLC,31888000,20213000,11675000,63.4,488108,2391.9,Entry Age,NULL,20212768,11675232,63
+City of San Jose Federated City Employees' Retirement System,7249,2017,06/30/2016,Cheiron,3786730000,2034741000,1751989000,53.7,271061000,646.3,Entry Age,NULL,1858882000,1927848000,49
+City of San Jose Police and Fire Retirement Plan,7250,2017,06/30/2016,Cheiron,4355990000,3297068000,1058922000,75.7,184214000,574.8,Entry Age,NULL,3046377000,1309613000,70
+City of Santa Barbara Police and Fire Pension Fund,7248,2017,06/30/2016,Bartel Associates,726095,453452,272643,62.5,0,,Other,Actuarial cost methods are only applicable when you have active employees.,453452,272643,62
+Contra Costa County Employees' Retirement Association,7259,2017,12/31/2015,Segal Consulting,8448624096,7136801380,1311822716,84.5,746352665,175.8,Entry Age,NULL,6976582428,1472041668,83
+Contra Costa Water District Retirement Plan,7172,2017,06/30/2016,Bartel Associates,191580000,164392000,27188000,85.8,28065323,96.9,Entry Age,NULL,159022000,32558000,83
+Desert Hospital Retirement Protection Plan,7398,2017,06/30/2017,Nyhart,8219294,4980952,3238342,60.6,0,,Entry Age,NULL,5344174,2875120,65
+East Bay Municipal Utility District Employees' Retirement System,7168,2017,06/30/2016,Segal Consulting,1995863155,1425784553,570078602,71.4,182548000,312.3,Entry Age,NULL,1391771000,604092155,70
+Fresno County Employees' Retirement Association,7260,2017,06/30/2015,Segal Consulting,5074333000,4092647000,981686000,80.7,383775000,255.8,Entry Age,NULL,4031390000,1042943000,79
+Golden Gate Transit District Amalgamated Retirement Plan,7144,2017,01/01/2015,Cheiron,159256343,111624209,47632134,70.1,21981000,216.7,Entry Age,NULL,114912400,44343943,72
+Imperial County Employees' Retirement System,7261,2017,06/30/2017,The Segal Company,910321000,783848000,126473000,86.1,119934,105452.2,Entry Age,NULL,779075000,131246000,86
+Judges' Retirement System I,7205,2017,06/30/2016,CalPERS Actuarial & Employer Services Division,3428743000,39794000,3388949000,1.2,42430000,7987.2,Entry Age,NULL,39794000,3388949000,1
+Judges' Retirement System II,7206,2017,06/30/2016,CalPERS Actuarial & Employer Services Division,1272751000,1172953000,99798000,92.2,282619000,35.3,Entry Age,NULL,1172953000,99798000,92
+Kaweah Delta Hospital District Employees' Retirement Plan,7149,2017,06/30/2017,Willis Towers Watson,257241163,,257241163,,0,,Entry Age,NULL,205491794,51749369,80
+Kern County Employees' Retirement Association,7262,2017,06/30/2016,Segal Consulting,5813092000,3685447000,2127645000,63.4,556824000,,Entry Age,NULL,3450117000,2362975000,59
+Legislators' Retirement System,7207,2017,06/30/2016,CalPERS Actuarial & Employer Services Division,106975000,119050000,-12075000,111.3,1321000,-914.1,Entry Age,NULL,119050000,-12075000,111
+Long Beach Public Transportation Company Retirement Plan - Contract Employees,7198,2017,07/01/2017,Venuti & Associates,81803970,52742303,29061667,64.5,31258000,93,Entry Age,NULL,52742303,29061667,64
+Long Beach Public Transportation Company Retirement Plan - Salaried Employees,7199,2017,07/01/2017,Venuti & Associates,29527880,25232880,4295000,85.5,6843000,62.8,Entry Age,NULL,25232880,4295000,85
+Los Angeles City Employees' Retirement System,7237,2017,06/30/2017,Segal Consulting,18458187953,13178333884,5279854069,71.4,2062316129,256,Entry Age,NULL,13180515725,5277672228,71
+Los Angeles County Employees' Retirement Association,7263,2017,06/30/2016,Milliman,62199214000,49357847000,12841367000,79.4,7279090792,176.4,Entry Age,NULL,50895682355,11303531645,82
+Los Angeles County Transportation Authority AFSCME Employees' Retirement Income Plan,9235,2017,12/31/2016,Willis Towers Watson,60656223,49300193,11356030,81.3,2198826,516.5,Projected Unit Credit,NULL,46187288,14468935,76
+Los Angeles County Transportation Authority Maintenance Employees' Retirement System,7161,2017,01/01/2017,Rael & Letson,566085210,365831400,200253810,64.6,142665000,140.4,Entry Age,NULL,356834299,209250911,63
+Los Angeles County Transportation Authority Non-Contract Employees' Retirement System,7162,2017,12/31/2016,Willis Towers Watson,154287687,115863615,38424072,75.1,3447137,1114.7,Projected Unit Credit,NULL,110630745,43656942,72
+Los Angeles County Transportation Authority SMART - TD Retirement,7163,2017,12/31/2016,Willis Towers Watson,708111529,521558264,186553265,73.7,192342001,97,Projected Unit Credit,NULL,504460857,203650672,71
+Los Angeles County Transportation Authority Transportation Communication - Union Employees' Retirement System,7160,2017,12/31/2016,Willis Towers Watson,138548223,100559564,37988659,72.6,39763754,95.5,Projected Unit Credit,NULL,96505957,42042266,70
+Marin County Employees' Retirement Association,7264,2017,06/30/2015,Cheiron,2469071955,,2469071955,,238423477,1035.6,Entry Age,NULL,2066247544,402824411,84
+Mendocino County Employees' Retirement Association,7265,2017,06/30/2017,Segal Consulting,679565362,475224924,204340438,69.9,62335605,327.8,Entry Age,NULL,,679565362,0
+Merced County Employees' Retirement Association,7266,2017,06/30/2015,Cheiron,1131181000,672319369,458861631,59.4,119621964,383.6,Other,Entry Age Normal,672319369,458861631,59
+Modesto Irrigation District Basic Retirement Plan,7186,2017,01/01/2016,Transamerica Retirement Solutions,307143385,241233426,65909959,78.5,38211146,172.5,Projected Unit Credit,NULL,228711034,78432351,74
+Orange County Employees' Retirement System,7267,2017,12/31/2015,Segal Consulting,17050357000,12228009000,4822348000,71.7,1633112000,,Entry Age,NULL,11548440000,5501917000,68
+Public Agency Retirement System Defined Benefit Plans,7215,2017,06/30/2016,Milliman Inc.,17623694,4925628,12698066,28,282682297,4.5,Entry Age,NULL,,17623694,0
+Public Employees' Retirement Fund (PERF) A,12892,2017,06/30/2016,CalPERS Actuarial Office,436703000000,298126000000,138577000000,68.3,49833000000,278.1,Entry Age,NULL,298126000000,138577000000,68
+Sacramento County Employees' Retirement System,7268,2017,06/30/2017,Segal Consulting,10680998000,8665226000,2015772000,81.1,958934000,210.2,Entry Age,NULL,8584225000,2096773000,80
+Sacramento Regional Transit District ATU Employees' Retirement Plan,12847,2017,07/01/2016,Cheiron Inc,167084597,126808879,40275718,75.9,30037232,134.1,Entry Age,NULL,119630500,47454097,72
+Sacramento Regional Transit District IBEW Employees' Retirement Plan,12848,2017,07/01/2016,Cheiron Inc,68753422,51287813,17465609,74.6,12333541,141.6,Entry Age,NULL,48384520,20368902,70
+Sacramento Regional Transit District Salaried Employees' Retirement Plan,7165,2017,07/01/2016,Cheiron Inc,122730230,79718423,43011807,65,23952817,,Entry Age,NULL,75337019,47393211,61
+San Bernardino County Employees' Retirement Association,7269,2017,06/30/2017,Segal Consulting,11928309718,9385976561,2542333157,78.7,1406470110,180.8,Entry Age,NULL,9288441361,2639868357,78
+San Diego City Employees' Retirement System,7246,2017,06/30/2016,Cheiron,9683560185,6978763561,2704796624,72.1,529916664,510.4,Entry Age,NULL,6819518109,2864042076,70
+San Diego County Employees' Retirement Association,7270,2017,06/30/2017,The Segal Company,14937872000,11566926000,3370946000,77.4,1253223397,269,Entry Age,NULL,11395274000,3542598000,76
+San Diego Transit Corporation Employees' Retirement Plan,7200,2017,07/01/2016,Cheiron Inc.,289255802,168234278,121021524,58.2,31660643,382.3,Entry Age,NULL,161635007,127620795,56
+San Francisco City and County Employees' Retirement System,7247,2017,07/01/2017,Cheiron,25706090,22185244,3520846,86.3,3102672358,0.1,Entry Age,NULL,22410350,3295740,87
+San Joaquin County Employees' Retirement Association,7271,2017,01/01/2016,CHEIRON,4006390050,2604472784,1401917266,65,,,Entry Age,NULL,2413242547,1593147503,60
+San Joaquin Regional Transit District Contract Employees' Retirement Plan,7166,2017,07/01/2016,Bartel Associates LLC,65189000,35693000,29496000,54.8,8672000,,Entry Age,NULL,33809000,31380000,52
+San Luis Obispo County Pension Trust,7272,2017,01/01/2016,Gabriel Roeder Smith & Company,1749342000,1248328000,501014000,71.4,180728417,277.2,Entry Age,NULL,1135803000,613539000,65
+San Mateo County Employees' Retirement Association,7273,2017,06/30/2017,Milliman,4719850000,3976717000,743133000,84.3,522222624,142.3,Entry Age,NULL,4038702000,681148000,86
+Santa Barbara County Employees' Retirement System,7274,2017,06/30/2016,Cheiron,3571000000,2555000000,1016000000,71.6,0,,Entry Age,NULL,2555000000,1016000000,72
+Santa Clara Valley Transportation Authority Amalgamated Transit Union Pension Plan,7167,2017,06/30/2017,Cheiron Inc,701581204,531466869,170114335,75.8,131544000,129.3,Entry Age,NULL,531466869,170114335,76
+Self-Insured Schools of California Defined Benefit Plan,7183,2017,12/31/2016,Lou Filliger FSA,44472286,42950064,1522222,96.6,94039000,,Projected Unit Credit,NULL,42923075,1549211,97
+Sonoma County Employees' Retirement Association,7275,2017,12/31/2016,Segal Consulting,2807398000,2399171000,408227000,85.5,356129644,114.6,Entry Age,NULL,2414828000,392570000,86
+Stanislaus County Employees' Retirement Association,7276,2017,06/30/2015,Cheiron Inc.,2391522000,1763629000,627893000,73.8,255646516,245.6,Entry Age,NULL,1772913713,618608287,74
+Sunline Transit Retirement Income Plan - Bargaining Unit Personnel,7182,2017,01/01/2016,Nyhart,22559195,20450576,2108619,90.7,9306674,22.7,Entry Age,NULL,,22559195,
+Sunline Transit Retirement Income Plan - Non-Bargaining Unit Personnel,7400,2017,01/01/2016,Nyhart,23432961,21434841,1998120,91.5,4429828,45.1,Entry Age,NULL,21437959,1995002,91
+Tulare County Employees' Retirement Association,7277,2017,06/30/2015,Cheiron,1358435,1156587,201848,85.1,239054767,0.1,Entry Age,NULL,1101172,257263,81
+Turlock Irrigation District Pension Plan,7187,2017,01/01/2016,Nyhart,289125728,227666200,61459528,78.7,35244750,174.4,Entry Age,N/A,218079478,71046250,75
+University of California Retirement Plan,7211,2017,07/01/2017,Segal Consulting,72965272000,61884530000,11080742000,84.8,12412591000,89.3,Entry Age,NULL,62114261000,10851011000,85
+Ventura County Employees' Retirement Association,7278,2017,06/30/2017,Segal Consulting,5703396000,4959070000,744326000,87,744917386,99.9,Entry Age,NULL,4964247000,739149000,87
+West Contra Costa Healthcare District Successor Retirement Plan,8275,2017,06/30/2017,WILLIS TOWERS WATSON,15899212,3098074,12801138,19.5,0,,Projected Unit Credit,NULL,,15899212,
