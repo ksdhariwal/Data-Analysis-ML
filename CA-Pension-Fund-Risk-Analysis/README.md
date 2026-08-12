@@ -61,4 +61,4 @@ Supplemented with two publicly sourced economic reference series (S&P 500 annual
 ##### Contact and Further Information
 
 Kanwarjit Singh Dhariwal
-UC Berkeley Professional Certificate in Machine Learning and Artificial Intelligence
+ksdhariwal@gmail.com
