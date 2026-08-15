@@ -132,4 +132,4 @@ This capstone is delivered as a collection of four Jupyter Notebooks, each handi
 ##### Contact and Further Information
 
 Kanwarjit Singh Dhariwal
-UC Berkeley Professional Certificate in Machine Learning and Artificial Intelligence
+ksdhariwal@gmail.com
